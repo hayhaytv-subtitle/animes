@@ -1,0 +1,419 @@
+﻿[Script Info]
+Title: Bilibili Subtitle
+ScriptType: v4.00+
+PlayDepth: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 1920
+PlayResY: 1080
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,75,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,10,10,10,1
+Style: FLIT - Dialogue,Noto Sans,100,&H00FFFFFF,&H0000FFFF,&H00082200,&H7F000000,-1,0,0,0,100,100,0,0,1,5,1.5,2,96,96,65,1
+Style: FLIT - FN,Noto Sans,100,&H00FFFFFF,&H0000FFFF,&H00082200,&H7F000000,-1,0,0,0,100,100,0,0,1,5,1.5,8,96,96,65,1
+Style: FLIT - WhiteBrdr,Noto Sans,100,&H00FFFFFF,&H0000FFFF,&H00FFFFFF,&H7F000000,-1,0,0,0,100,100,0,0,1,5,1.5,2,96,96,65,1
+Style: FLIT- Thin,Noto Sans Light,100,&H00FFFFFF,&H0000FFFF,&H00082200,&H7F000000,-1,0,0,0,100,100,0,0,1,5,1.5,2,96,96,65,1
+Style: Lines,Noto Sans,100,&H00FFFFFF,&H000000FF,&H00000005,&H80000000,-1,0,0,0,100,100,0,0,1,5,1.5,2,96,96,65,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:02:24.44,0:02:26.90,FLIT - Dialogue,,0,0,0,,{\pos(868,229)\bord0\fs100\t(\fs80}{\c&H06B0EB&}Ẩm thực{\c&HOC142E&} dã ngoại tại dị giới với {\c&H06B0EB&}kỹ năng{\c&HOC142E&} không tưởng
+Dialogue: 0,0:02:26.91,0:02:27.21,FLIT - Dialogue,,0,0,0,,{\move(868,229,868,-100)\bord0\fs80}{\c&H06B0EB&}Ẩm thực{\c&HOC142E&} dã ngoại tại dị giới với {\c&H06B0EB&}kỹ năng{\c&HOC142E&} không tưởng
+Dialogue: 0,0:03:46.50,0:03:50.23,FLIT - WhiteBrdr,,0,0,0,,{\pos(1802,941)\an3\fad(400,400)\fs60\c&H0EB9E8\bord2}Tập 7 {\c&H212C45\bord2}Sói nhảy múa cùng Ma thú
+Dialogue: 0,0:08:41.69,0:08:42.86,FLIT - Dialogue,,0,0,0,,{\move(2300,790,1473,790)\fs70\c&H353C47\3c&H79BED5}Sandwich Black Serpent sốt ớt
+Dialogue: 0,0:08:42.86,0:08:44.92,FLIT - Dialogue,,0,0,0,,{\pos(1473,790)\fs70\c&H353C47\3c&H79BED5}Sandwich Black Serpent sốt ớt
+Dialogue: 0,0:10:13.82,0:10:14.81,FLIT - Dialogue,,0,0,0,,{\pos(1213,657)\bord0\fs60}Chế tạo thuốc hồi phục
+Dialogue: 0,0:10:14.81,0:10:15.23,FLIT - Dialogue,,0,0,0,,{\bord0\move(1213,657,1035,509)\fs60\t(\fs80)}Chế tạo thuốc hồi phục
+Dialogue: 0,0:10:15.23,0:10:15.70,FLIT - Dialogue,,0,0,0,,{\pos(1035,509)\bord0\fs80}Chế tạo thuốc hồi phục
+Dialogue: 0,0:11:31.71,0:11:33.46,FLIT - Dialogue,,0,0,0,,{\pos(960,335)\bord0\fs70}Thuốc hồi phục thượng phẩm do Sui đặc biệt làm ra
+Dialogue: 0,0:11:31.71,0:11:33.46,FLIT - Dialogue,,0,0,0,,{\pos(960,500)\bord0\fs70}có thể cứu chữa người hấp hối
+Dialogue: 0,0:17:25.51,0:17:26.09,FLIT - Dialogue,,0,0,0,,{\move(281,817,373,817)\fs70\c&H353C47\3c&H79BED5\fad(500,0)}Tonkatsu thịt Orc nóng hổi
+Dialogue: 0,0:17:26.09,0:17:29.92,FLIT - Dialogue,,0,0,0,,{\pos(373,817)\fs70\c&H353C47\3c&H79BED5}Tonkatsu thịt Orc nóng hổi
+Dialogue: 0,0:22:31.00,0:22:35.00,FLIT - WhiteBrdr,,0,0,0,,{\pos(960,250)\fad(0,0)\fs70\bord2}{\c&H212C45}Kịch trường {\c&H0EB9E8}dị giới
+Dialogue: 0,0:23:51.16,0:23:54.93,FLIT - WhiteBrdr,,0,0,0,,{\pos(1702,941)\an3\fad(400,0)\fs60\c&H0EB9E8\bord2}Tập 8 {\c&H212C45\bord2}Quái vật cấp Boss đều ngon cả
+Dialogue: 0,0:00:03.02,0:00:07.86,Lines,,0,0,0,,Khu rừng bao gồm cả lãnh thổ\Ncủa Orthrus và Griffon.
+Dialogue: 0,0:00:08.32,0:00:11.40,Lines,,0,0,0,,Thế nên đường bộ dành cho con\Nngười phải vòng rất rộng.
+Dialogue: 0,0:00:11.69,0:00:12.86,Lines,,0,0,0,,Ồ...
+Dialogue: 0,0:00:13.32,0:00:16.28,Lines,,0,0,0,,Hả? Nãy ông vừa nói Orthrus với Griffon hả?
+Dialogue: 0,0:00:16.28,0:00:16.87,Lines,,0,0,0,,Ừ.
+Dialogue: 0,0:00:16.87,0:00:18.33,Lines,,0,0,0,,Là bọn quái vật cấp Boss á?
+Dialogue: 0,0:00:18.33,0:00:19.54,Lines,,0,0,0,,Không biết.
+Dialogue: 0,0:00:19.54,0:00:23.00,Lines,,0,0,0,,Tại sao đang yên đang lành lại phải\Nđi qua lãnh thổ của chúng chứ?
+Dialogue: 0,0:00:23.71,0:00:25.62,Lines,,0,0,0,,Ồn ào quá...
+Dialogue: 0,0:00:25.62,0:00:28.04,Lines,,0,0,0,,Dù sao chúng cũng không\Nphải đối thủ của ta.
+Dialogue: 0,0:00:28.04,0:00:30.92,Lines,,0,0,0,,Chúng cũng tự biết không\Nđối đầu với ta được.
+Dialogue: 0,0:00:31.17,0:00:35.47,Lines,,0,0,0,,Nếu thực sự dám thách thức\Nthì chỉ là mấy con trẻ ranh chưa trải sự đời.
+Dialogue: 0,0:00:35.47,0:00:36.64,Lines,,0,0,0,,Khoan đã nào!
+Dialogue: 0,0:00:36.64,0:00:38.22,Lines,,0,0,0,,Rốt cuộc có bao nhiêu con vậy?
+Dialogue: 0,0:00:41.22,0:00:43.81,Lines,,0,0,0,,Lãnh thổ là nơi chúng sinh sản.
+Dialogue: 0,0:00:43.81,0:00:45.73,Lines,,0,0,0,,Đương nhiên là số lượng rất nhiều.
+Dialogue: 0,0:00:45.73,0:00:47.52,Lines,,0,0,0,,Hả?
+Dialogue: 0,0:00:47.52,0:00:49.48,Lines,,0,0,0,,Mau đi đường vòng thôi!
+Dialogue: 0,0:00:49.48,0:00:51.40,Lines,,0,0,0,,Cứ tiếp tục đi như thế này đi.
+Dialogue: 0,0:00:51.40,0:00:53.74,Lines,,0,0,0,,Dù sao cũng vào lãnh thổ Orthrus rồi.
+Dialogue: 0,0:00:58.37,0:00:59.20,Lines,,0,0,0,,Hả?
+Dialogue: 0,0:01:04.75,0:01:05.75,Lines,,0,0,0,,Chúng tới rồi...
+Dialogue: 0,0:01:10.34,0:01:11.71,Lines,,0,0,0,,Này này này này...
+Dialogue: 0,0:01:11.71,0:01:12.88,Lines,,0,0,0,,Đừng đùa chứ...
+Dialogue: 0,0:01:21.85,0:01:22.60,Lines,,0,0,0,,Fel...
+Dialogue: 0,0:01:22.97,0:01:24.14,Lines,,0,0,0,,Không sao đâu.
+Dialogue: 0,0:01:24.48,0:01:26.31,Lines,,0,0,0,,Không có gì phải sợ.
+Dialogue: 0,0:01:31.07,0:01:35.57,Lines,,0,0,0,,Ra vậy... các ngươi chính là\Nmấy tên ngốc nhỏ tuổi chưa trải sự đời.
+Dialogue: 0,0:01:36.32,0:01:38.41,Lines,,0,0,0,,Cậu với Sui mau tránh ra đi.
+Dialogue: 0,0:01:38.41,0:01:40.16,Lines,,0,0,0,,Rất hân hạnh!
+Dialogue: 0,0:01:43.33,0:01:47.29,Lines,,0,0,0,,Dám nhe nanh với ta sẽ gặp hậu quả gì,\Ncó biết không đấy?
+Dialogue: 0,0:01:49.50,0:01:53.50,Lines,,0,0,0,,Đã sẵn sàng mang sự tự tin đó\Nxuống mồ chưa?
+Dialogue: 0,0:01:53.50,0:01:54.80,Lines,,0,0,0,,Lũ ngu xuẩn...
+Dialogue: 0,0:02:02.85,0:02:04.89,Lines,,0,0,0,,Úi!
+Dialogue: 0,0:02:08.85,0:02:12.98,Lines,,0,0,0,,C-Cái quái gì vậy?
+Dialogue: 0,0:02:29.29,0:02:32.96,Lines,,0,0,0,,Luẩn quẩn loanh quanh trong\Nnhững công việc nhàm chán
+Dialogue: 0,0:02:32.96,0:02:36.38,Lines,,0,0,0,,Tôi muốn một tương lai nơi được\Nnếm những hương vị mới mẻ
+Dialogue: 0,0:02:36.67,0:02:40.39,Lines,,0,0,0,,Xích mích động chạm nhỏ\Nbùng phát thành khẩu chiến
+Dialogue: 0,0:02:40.39,0:02:42.60,Lines,,0,0,0,,Tôi buồn chán ném chiếc thìa đi về nơi xa
+Dialogue: 0,0:02:43.85,0:02:45.81,Lines,,0,0,0,,Đây tuy không phải bữa tiệc\Nhoàn hảo như tranh vẽ
+Dialogue: 0,0:02:45.81,0:02:47.60,Lines,,0,0,0,,Cũng không phải nước sốt làm từ nước dùng
+Dialogue: 0,0:02:47.60,0:02:51.19,Lines,,0,0,0,,Nhưng tại sao nó lại quyến rũ tới vậy?
+Dialogue: 0,0:02:51.19,0:02:53.07,Lines,,0,0,0,,Trước một bát sa lát đầy màu sắc
+Dialogue: 0,0:02:53.07,0:02:55.03,Lines,,0,0,0,,Dù muốn dù không, hay thử nở nụ cười
+Dialogue: 0,0:02:55.03,0:02:57.19,Lines,,0,0,0,,Không chừng sẽ có tình yêu bất ngờ đó.
+Dialogue: 0,0:02:57.19,0:03:00.70,Lines,,0,0,0,,Vào những ngày tiết trời âm u
+Dialogue: 0,0:03:00.70,0:03:03.45,Lines,,0,0,0,,Như xé tan những áng mây dày
+Dialogue: 0,0:03:03.45,0:03:05.33,Lines,,0,0,0,,Tôi muốn được thấy ngọn gió
+Dialogue: 0,0:03:05.33,0:03:07.20,Lines,,0,0,0,,Muốn được thấy những phép màu.
+Dialogue: 0,0:03:07.20,0:03:10.92,Lines,,0,0,0,,Nhìn vào những công thức\Nnấu ăn bên trong tâm trí
+Dialogue: 0,0:03:10.92,0:03:12.88,Lines,,0,0,0,,Hãy sáng tạo ra thật nhiều món mới,
+Dialogue: 0,0:03:12.88,0:03:15.09,Lines,,0,0,0,,bất kể bao nhiêu lần
+Dialogue: 0,0:03:15.09,0:03:18.59,Lines,,0,0,0,,Chỉ cần được thấy bạn nở nụ cười
+Dialogue: 0,0:03:18.59,0:03:21.84,Lines,,0,0,0,,Cho dù là mất bao nhiêu lần cũng đáng.
+Dialogue: 0,0:03:21.84,0:03:25.60,Lines,,0,0,0,,Những cuộc hội ngộ mông lung\Ntrong một tương lai bất định
+Dialogue: 0,0:03:25.60,0:03:29.06,Lines,,0,0,0,,Cho dù những chiếc đĩa khác nhau,\Ntôi vẫn có thể chia đều
+Dialogue: 0,0:03:29.06,0:03:32.77,Lines,,0,0,0,,Một muỗng nhỏ định mệnh,\Nxua tan mệt mỏi đêm dài
+Dialogue: 0,0:03:32.77,0:03:35.86,Lines,,0,0,0,,Hãy cùng chia sẻ về những dự định\Ntương lai dù lớn hay nhỏ
+Dialogue: 0,0:03:36.53,0:03:39.36,Lines,,0,0,0,,Và rồi cùng nhau tìm kiếm\Nchiếc muỗng xa xỉ này
+Dialogue: 0,0:03:49.41,0:03:50.37,Lines,,0,0,0,,Biến đi!
+Dialogue: 0,0:03:54.29,0:03:55.42,Lines,,0,0,0,,Được rồi đấy!
+Dialogue: 0,0:03:57.54,0:04:00.67,Lines,,0,0,0,,Bác Fel mạnh quá!
+Dialogue: 0,0:04:00.67,0:04:02.30,Lines,,0,0,0,,Vừa rồi là kỹ năng sao?
+Dialogue: 0,0:04:04.51,0:04:06.35,Lines,,0,0,0,,Chiêu đó gọi là Trảo Trảm Kích.
+Dialogue: 0,0:04:06.35,0:04:08.85,Lines,,0,0,0,,Bằng cách giải phóng sức mạnh\Ntừ móng vuốt...
+Dialogue: 0,0:04:08.85,0:04:11.10,Lines,,0,0,0,,Coi cái mặt tự mãn chưa kìa...
+Dialogue: 0,0:04:11.10,0:04:15.48,Lines,,0,0,0,,Nè nè... Sui liệu có làm được thế không nhỉ?
+Dialogue: 0,0:04:15.48,0:04:19.61,Lines,,0,0,0,,Ừm, Sui thì không có móng nên\Nchắc không làm được.
+Dialogue: 0,0:04:19.98,0:04:24.20,Lines,,0,0,0,,Nhưng mà kỹ năng phun axit của Sui\Ncũng tuyệt vời lắm rồi.
+Dialogue: 0,0:04:24.20,0:04:26.49,Lines,,0,0,0,,Thật không? Sui rất tuyệt vời?
+Dialogue: 0,0:04:26.49,0:04:29.87,Lines,,0,0,0,,Tuyệt lắm... Sui là nhất!
+Dialogue: 0,0:04:29.87,0:04:33.08,Lines,,0,0,0,,Hoan hô, Sui là nhất!
+Dialogue: 0,0:04:33.08,0:04:34.54,Lines,,0,0,0,,Đúng rồi!
+Dialogue: 0,0:04:37.38,0:04:38.42,Lines,,0,0,0,,Úi!
+Dialogue: 0,0:04:46.64,0:04:49.97,Lines,,0,0,0,,Nãy giờ cậu hơi bị mất bình tĩnh đó.
+Dialogue: 0,0:04:49.97,0:04:53.02,Lines,,0,0,0,,Biết làm sao được!\NTận mắt thấy mấy chuyện đó mà...
+Dialogue: 0,0:04:53.43,0:04:56.23,Lines,,0,0,0,,Khỏi lo, bọn Orthrus không tới nữa đâu.
+Dialogue: 0,0:04:56.23,0:04:56.98,Lines,,0,0,0,,Ế?
+Dialogue: 0,0:04:57.40,0:05:00.27,Lines,,0,0,0,,Trận chiến lúc nãy đã khiến chúng hiểu ra rồi.
+Dialogue: 0,0:05:00.98,0:05:03.28,Lines,,0,0,0,,Quan trọng hơn, đồ ăn vẫn chưa có hả?
+Dialogue: 0,0:05:03.28,0:05:05.53,Lines,,0,0,0,,Cái gì mà "quan trọng hơn" chứ, thiệt tình...
+Dialogue: 0,0:05:05.90,0:05:08.45,Lines,,0,0,0,,Dù sao cũng đang ở trong\Nlãnh thổ của chúng...
+Dialogue: 0,0:05:08.70,0:05:11.08,Lines,,0,0,0,,ông nhớ phải dựng kết giới cho cẩn thận đấy.
+Dialogue: 0,0:05:11.83,0:05:13.37,Lines,,0,0,0,,Chủ nhân...
+Dialogue: 0,0:05:13.75,0:05:16.25,Lines,,0,0,0,,Sui cũng đói bụng rồi.
+Dialogue: 0,0:05:16.67,0:05:18.21,Lines,,0,0,0,,Thế à?
+Dialogue: 0,0:05:19.25,0:05:21.75,Lines,,0,0,0,,Vậy chúng ta dùng bữa nhé.
+Dialogue: 0,0:05:21.75,0:05:25.59,Lines,,0,0,0,,Thái độ của cậu với Sui và ta có\Nhơi khác nhau quá không đấy?
+Dialogue: 0,0:05:29.43,0:05:30.60,Lines,,0,0,0,,Này, Fel!
+Dialogue: 0,0:05:31.01,0:05:33.56,Lines,,0,0,0,,Còn khoảng bao lâu nữa sẽ ra khỏi rừng?
+Dialogue: 0,0:05:33.89,0:05:36.44,Lines,,0,0,0,,Hiện tại đã được hơn nửa quãng đường.
+Dialogue: 0,0:05:37.02,0:05:40.48,Lines,,0,0,0,,Tính tới nay đã hơn ba tuần, vậy là...
+Dialogue: 0,0:05:42.27,0:05:43.53,Lines,,0,0,0,,Vẫn còn ba tuần nữa?
+Dialogue: 0,0:05:46.03,0:05:49.45,Lines,,0,0,0,,Vậy là chỗ thịt còn lại chỉ vừa đủ...
+Dialogue: 0,0:05:50.45,0:05:52.20,Lines,,0,0,0,,Black Serpent...
+Dialogue: 0,0:05:53.79,0:05:56.21,Lines,,0,0,0,,Người ta nói thịt rắn vị cũng na ná thịt gà...
+Dialogue: 0,0:05:56.87,0:05:58.62,Lines,,0,0,0,,Chắc thử dùng thôi.
+Dialogue: 0,0:05:59.46,0:06:02.63,Lines,,0,0,0,,Được rồi, đã mất công thì thử\Nlàm thực đơn mới xem sao.
+Dialogue: 0,0:06:09.09,0:06:13.10,Lines,,0,0,0,,Mình đã chế biến nhiều với tôm,\Nnhưng đây là lần đầu dùng rắn.
+Dialogue: 0,0:06:13.76,0:06:16.81,Lines,,0,0,0,,Đầu tiên, cạo thịt ra khỏi xương.
+Dialogue: 0,0:06:18.06,0:06:22.31,Lines,,0,0,0,,Ừm, quả nhiên thịt khá là săn chắc.
+Dialogue: 0,0:06:22.82,0:06:25.19,Lines,,0,0,0,,Chắc làm những món như khi dùng ức gà.
+Dialogue: 0,0:06:27.53,0:06:32.49,Lines,,0,0,0,,Cắt thịt thành miếng vừa ăn,\Nrắc đường và nhào nhẹ.
+Dialogue: 0,0:06:32.83,0:06:35.70,Lines,,0,0,0,,Sau đó thêm rượu sake và muối,
+Dialogue: 0,0:06:36.04,0:06:38.37,Lines,,0,0,0,,Đợi rượu ngấm vào thịt.
+Dialogue: 0,0:06:39.33,0:06:41.79,Lines,,0,0,0,,Trong lúc đó thì xắt nhỏ rau.
+Dialogue: 0,0:06:41.79,0:06:43.75,Lines,,0,0,0,,Tiếp theo là tương ớt...
+Dialogue: 0,0:06:43.75,0:06:46.42,Lines,,0,0,0,,Bắt đầu với các loại gia vị thông dụng.
+Dialogue: 0,0:06:54.72,0:06:58.27,Lines,,0,0,0,,Sau đó là xốt Tianmian.
+Dialogue: 0,0:07:00.52,0:07:03.77,Lines,,0,0,0,,Cho cái này vào\Nlà vị sẽ phong phú hơn rất nhiều.
+Dialogue: 0,0:07:04.52,0:07:08.49,Lines,,0,0,0,,Sau khi thịt đã ngấm rượu, thêm bột\Nkhoai tây và đảo lên.
+Dialogue: 0,0:07:08.49,0:07:12.57,Lines,,0,0,0,,Áp chảo gừng và tỏi rồi cho thịt vào.
+Dialogue: 0,0:07:13.12,0:07:18.08,Lines,,0,0,0,,Sau khi chiên vừa thì thêm nước xốt,\Nhành củ và hành trắng.
+Dialogue: 0,0:07:20.50,0:07:24.38,Lines,,0,0,0,,Cuối cùng là thêm một ít bột khoai tây\Nhòa trong nước để làm đặc lại.
+Dialogue: 0,0:07:24.63,0:07:28.09,Lines,,0,0,0,,Bày ra đĩa, rắc thêm hành lá lên\Nlà hoàn thành!
+Dialogue: 0,0:07:29.59,0:07:32.80,Lines,,0,0,0,,{\fad(500,0)\pos(1490,790)\fs70\c&H353C47\3c&H79BED5}Black Serpent sốt ớt
+Dialogue: 0,0:07:28.59,0:07:32.05,Lines,,0,0,0,,Đây không phải món tôm sốt ớt\Nmà là Black Serpent sốt ớt.
+Dialogue: 0,0:07:34.76,0:07:36.85,Lines,,0,0,0,,Đây là thịt gà... Đây là thịt gà...
+Dialogue: 0,0:07:42.39,0:07:44.69,Lines,,0,0,0,,Ngon quá! Vị ngon rất bình thường!
+Dialogue: 0,0:07:44.98,0:07:47.61,Lines,,0,0,0,,Xấu quá! Cho ta ăn nữa chứ!
+Dialogue: 0,0:07:47.94,0:07:50.11,Lines,,0,0,0,,Úi, này!
+Dialogue: 0,0:07:50.11,0:07:52.95,Lines,,0,0,0,,Hả? Khác hẳn so với khi ăn sống!
+Dialogue: 0,0:07:52.95,0:07:56.91,Lines,,0,0,0,,Nước xốt mặn ngọt quyện với thịt\Năn thật tuyệt vời!
+Dialogue: 0,0:07:57.20,0:07:58.33,Lines,,0,0,0,,Mau cho ta thêm nữa!
+Dialogue: 0,0:07:58.58,0:07:59.75,Lines,,0,0,0,,Đang làm đây!
+Dialogue: 0,0:07:59.75,0:08:01.46,Lines,,0,0,0,,Sui cũng muốn ăn!
+Dialogue: 0,0:08:01.71,0:08:04.88,Lines,,0,0,0,,Đang làm thật là nhiều đây!
+Dialogue: 0,0:08:04.88,0:08:06.75,Lines,,0,0,0,,Hoan hô!
+Dialogue: 0,0:08:27.48,0:08:29.48,Lines,,0,0,0,,Này, đó là phần tôi mà!
+Dialogue: 0,0:08:29.48,0:08:30.53,Lines,,0,0,0,,Ngon lắm!
+Dialogue: 0,0:08:30.53,0:08:32.99,Lines,,0,0,0,,Sui cũng thích món này.
+Dialogue: 0,0:08:35.61,0:08:37.32,Lines,,0,0,0,,Vậy thì tốt rồi.
+Dialogue: 0,0:08:37.70,0:08:38.37,Lines,,0,0,0,,Hả?
+Dialogue: 0,0:08:38.74,0:08:39.70,Lines,,0,0,0,,Á...
+Dialogue: 0,0:08:45.25,0:08:46.21,Lines,,0,0,0,,Chết tiệt!
+Dialogue: 0,0:08:59.35,0:09:01.06,Lines,,0,0,0,,Gì thế? Có chuyện gì vậy?
+Dialogue: 0,0:09:01.06,0:09:02.56,Lines,,0,0,0,,Hiếm thấy thật...
+Dialogue: 0,0:09:02.56,0:09:03.35,Lines,,0,0,0,,Hả?
+Dialogue: 0,0:09:03.68,0:09:05.19,Lines,,0,0,0,,Cây nấm đó là gì vậy?
+Dialogue: 0,0:09:05.85,0:09:09.98,Lines,,0,0,0,,Nó là loại nấm có tác dụng hồi phục,\Ntên là Healing Mushroom.
+Dialogue: 0,0:09:10.57,0:09:12.28,Lines,,0,0,0,,Healing Mushroom...
+Dialogue: 0,0:09:12.86,0:09:16.76,Lines,,0,0,0,,Nó là nguyên liệu để làm thuốc,\Nnhưng cứ vậy mà ăn cũng có tác dụng.
+Dialogue: 0,0:09:16.76,0:09:19.70,Lines,,0,0,0,,Những vết thương sâu hay gãy xương\Nsẽ nhanh chóng lành lại.
+Dialogue: 0,0:09:19.70,0:09:21.37,Lines,,0,0,0,,Vậy thì tuyệt quá.
+Dialogue: 0,0:09:22.79,0:09:26.21,Lines,,0,0,0,,Nếu nó có tác dụng như vậy\Nthì cũng nên hái một ít.
+Dialogue: 0,0:09:29.59,0:09:32.09,Lines,,0,0,0,,Mùi gì thơm quá!
+Dialogue: 0,0:09:32.09,0:09:34.01,Lines,,0,0,0,,Ồ, Sui, đã dậy rồi à?
+Dialogue: 0,0:09:34.01,0:09:36.01,Lines,,0,0,0,,Nấm trông ngon quá.
+Dialogue: 0,0:09:36.01,0:09:38.43,Lines,,0,0,0,,Sui ăn được không, chủ nhân?
+Dialogue: 0,0:09:38.43,0:09:40.26,Lines,,0,0,0,,Được, nhưng vừa phải thôi nhé.
+Dialogue: 0,0:09:40.26,0:09:41.60,Lines,,0,0,0,,Hoan hô!
+Dialogue: 0,0:09:51.36,0:09:53.98,Lines,,0,0,0,,Thế này là lúc cần có thể yên tâm được rồi.
+Dialogue: 0,0:09:55.74,0:09:58.82,Lines,,0,0,0,,Úi, Sui... Sao vậy?
+Dialogue: 0,0:09:58.82,0:09:59.53,Lines,,0,0,0,,Có sao không?
+Dialogue: 0,0:09:59.53,0:10:01.33,Lines,,0,0,0,,Không biết nữa...
+Dialogue: 0,0:10:03.24,0:10:04.95,Lines,,0,0,0,,Hết lóe sáng rồi...
+Dialogue: 0,0:10:04.95,0:10:07.41,Lines,,0,0,0,,Có bị sao không? Có đau chỗ nào không?
+Dialogue: 0,0:10:07.41,0:10:09.21,Lines,,0,0,0,,Không sao...
+Dialogue: 0,0:10:09.21,0:10:11.67,Lines,,0,0,0,,Sui rất khỏe!
+Dialogue: 0,0:10:12.42,0:10:14.34,Lines,,0,0,0,,Cứ thẩm định cho chắc đã.
+Dialogue: 0,0:10:14.71,0:10:15.92,Lines,,0,0,0,,Hả?
+Dialogue: 0,0:10:16.30,0:10:19.18,Lines,,0,0,0,,Fel, ở đây có dòng chế tạo thuốc hồi phục...
+Dialogue: 0,0:10:19.55,0:10:23.51,Lines,,0,0,0,,Có lẽ do nó ăn nhiều Healing Mushroom quá đó.
+Dialogue: 0,0:10:24.72,0:10:27.48,Lines,,0,0,0,,Ngày xưa ta từng thấy có một số\NSlime ăn nhiều kim loại,
+Dialogue: 0,0:10:28.10,0:10:30.56,Lines,,0,0,0,,còn biến thành Metal Slime cơ mà.
+Dialogue: 0,0:10:30.94,0:10:34.19,Lines,,0,0,0,,Quả nhiên đó là kỹ năng được hình thành.
+Dialogue: 0,0:10:34.48,0:10:37.90,Lines,,0,0,0,,Vậy là việc tiến hóa quy định bằng\Nnhững thứ sẽ ăn sao?
+Dialogue: 0,0:10:38.49,0:10:42.16,Lines,,0,0,0,,Có thể chế tạo thuốc hồi phục\Ncũng không tệ chút nào.
+Dialogue: 0,0:10:43.95,0:10:45.70,Lines,,0,0,0,,Sui tuyệt vời quá!
+Dialogue: 0,0:10:45.70,0:10:46.24,Lines,,0,0,0,,Ơ?
+Dialogue: 0,0:10:46.24,0:10:47.54,Lines,,0,0,0,,Sui có giỏi không?
+Dialogue: 0,0:10:47.54,0:10:49.00,Lines,,0,0,0,,Giỏi lắm đó!
+Dialogue: 0,0:10:49.16,0:10:51.12,Lines,,0,0,0,,Sui là giỏi nhất, tuyệt nhất!
+Dialogue: 0,0:10:51.12,0:10:53.09,Lines,,0,0,0,,Hoan hô, hoan hô!
+Dialogue: 0,0:10:53.09,0:10:56.13,Lines,,0,0,0,,Giờ thử kỹ năng chế tạo thuốc hồi phục\Nvừa học được không?
+Dialogue: 0,0:10:56.13,0:10:59.47,Lines,,0,0,0,,Cũng không biết nữa, nhưng Sui sẽ thử.
+Dialogue: 0,0:11:02.09,0:11:04.51,Lines,,0,0,0,,Nếu thấy đau thì không cần cố đâu.
+Dialogue: 0,0:11:04.51,0:11:06.39,Lines,,0,0,0,,Không sao...
+Dialogue: 0,0:11:08.10,0:11:09.85,Lines,,0,0,0,,A, được rồi!
+Dialogue: 0,0:11:09.85,0:11:12.10,Lines,,0,0,0,,Chủ nhân, xong rồi!
+Dialogue: 0,0:11:12.10,0:11:12.90,Lines,,0,0,0,,Thật không?
+Dialogue: 0,0:11:12.90,0:11:13.73,Lines,,0,0,0,,Ưm!
+Dialogue: 0,0:11:13.73,0:11:14.77,Lines,,0,0,0,,Đây...
+Dialogue: 0,0:11:16.69,0:11:21.91,Lines,,0,0,0,,Ồ, khoan đã nào...\NXem có đồ gì đựng không...
+Dialogue: 0,0:11:21.91,0:11:23.07,Lines,,0,0,0,,Cho vào trong này đi...
+Dialogue: 0,0:11:25.33,0:11:27.16,Lines,,0,0,0,,Đây là thuốc hồi phục sao?
+Dialogue: 0,0:11:27.66,0:11:29.96,Lines,,0,0,0,,Mùi... không có.
+Dialogue: 0,0:11:30.41,0:11:31.37,Lines,,0,0,0,,Thẩm định...
+Dialogue: 0,0:11:31.96,0:11:33.75,Lines,,0,0,0,,Hả? Cái quái gì đây?
+Dialogue: 0,0:11:34.08,0:11:35.00,Lines,,0,0,0,,Fel có biết không?
+Dialogue: 0,0:11:35.04,0:11:36.59,Lines,,0,0,0,,Không biết.
+Dialogue: 0,0:11:37.38,0:11:40.51,Lines,,0,0,0,,Nè, Sui, thượng phẩm ý là sao?
+Dialogue: 0,0:11:40.51,0:11:46.47,Lines,,0,0,0,,Cái đó thì... nghĩa là có loại thuốc có thể\Nchữa được vết thương rất đau đó.
+Dialogue: 0,0:11:46.47,0:11:48.89,Lines,,0,0,0,,À... vậy có thể chế được loại thuốc khác không?
+Dialogue: 0,0:11:48.89,0:11:52.94,Lines,,0,0,0,,Ưm... thuốc chữa vết thương đau vừa vừa...
+Dialogue: 0,0:11:53.06,0:11:55.56,Lines,,0,0,0,,thuốc chữa vết thương hơi hơi đau...
+Dialogue: 0,0:11:55.56,0:11:57.15,Lines,,0,0,0,,Phí quá, phí quá!
+Dialogue: 0,0:11:59.74,0:12:02.45,Lines,,0,0,0,,Vậy là hiện tại có thể chế ra 3 loại thuốc...
+Dialogue: 0,0:12:02.78,0:12:05.16,Lines,,0,0,0,,Ta đã sống rất lâu rồi,
+Dialogue: 0,0:12:05.16,0:12:09.24,Lines,,0,0,0,,nhưng đây là lần đầu thấy một Slime\Nbiết chế thuốc hồi phục.
+Dialogue: 0,0:12:09.62,0:12:15.42,Lines,,0,0,0,,Sui tuy là Slime nhưng trí tuệ rất cao.\NHẳn phải là một cá thể rất đặc biệt.
+Dialogue: 0,0:12:16.42,0:12:18.34,Lines,,0,0,0,,Chủ nhân!
+Dialogue: 0,0:12:18.34,0:12:20.55,Lines,,0,0,0,,Sui tuyệt vời quá!
+Dialogue: 0,0:12:20.55,0:12:24.30,Lines,,0,0,0,,Vừa mạnh, lại chế được thuốc...\NKhông những thế còn rất dễ thương.
+Dialogue: 0,0:12:28.14,0:12:31.14,Lines,,0,0,0,,Đã ba ngày trôi qua kể từ khi\Nvào lãnh thổ Griffon.
+Dialogue: 0,0:12:32.39,0:12:37.02,Lines,,0,0,0,,Và giờ... mình đang đối mặt với Griffon.
+Dialogue: 0,0:12:37.77,0:12:39.36,Lines,,0,0,0,,F-Fel...
+Dialogue: 0,0:12:39.44,0:12:40.61,Lines,,0,0,0,,Đừng có hoảng.
+Dialogue: 0,0:12:43.07,0:12:44.20,Lines,,0,0,0,,Nó tới rồi!
+Dialogue: 0,0:12:44.20,0:12:47.70,Lines,,0,0,0,,Ngài Fenrir... làm ơn...
+Dialogue: 0,0:12:47.91,0:12:50.45,Lines,,0,0,0,,Ế? Nó nói kìa?
+Dialogue: 0,0:12:50.45,0:12:54.21,Lines,,0,0,0,,Có thể nói tiếng người...\Nxem ra nó rất thông minh.
+Dialogue: 0,0:12:54.87,0:12:56.96,Lines,,0,0,0,,Có thể nói được tiếng người...
+Dialogue: 0,0:12:57.21,0:12:58.13,Lines,,0,0,0,,chỉ có mình tôi.
+Dialogue: 0,0:12:58.63,0:13:00.42,Lines,,0,0,0,,Để có thể trở thành thủ lĩnh...
+Dialogue: 0,0:13:00.63,0:13:03.26,Lines,,0,0,0,,xin hãy đấu với tôi.
+Dialogue: 0,0:13:04.01,0:13:06.76,Lines,,0,0,0,,Phải đánh với kẻ mạnh như ngài Fenrir...
+Dialogue: 0,0:13:06.76,0:13:08.93,Lines,,0,0,0,,mọi người mới công nhận.
+Dialogue: 0,0:13:09.35,0:13:12.56,Lines,,0,0,0,,Trở thành thủ lĩnh của đàn...\Nkiểu như thử thách sao?
+Dialogue: 0,0:13:13.56,0:13:16.35,Lines,,0,0,0,,Xin ngài... hãy thành toàn cho tôi.
+Dialogue: 0,0:13:20.32,0:13:21.36,Lines,,0,0,0,,Được.
+Dialogue: 0,0:13:21.86,0:13:23.57,Lines,,0,0,0,,Nhưng ta sẽ không nương tay đâu.
+Dialogue: 0,0:13:24.74,0:13:25.90,Lines,,0,0,0,,Tôi hiểu.
+Dialogue: 0,0:13:26.24,0:13:26.99,Lines,,0,0,0,,Ừm...
+Dialogue: 0,0:13:27.49,0:13:30.33,Lines,,0,0,0,,Có vẻ ngươi đã chuẩn bị tinh thần chết rồi.
+Dialogue: 0,0:13:30.70,0:13:32.87,Lines,,0,0,0,,Fel... đừng có giết nó.
+Dialogue: 0,0:13:35.29,0:13:37.29,Lines,,0,0,0,,Sui, mau dậy đi!
+Dialogue: 0,0:13:42.05,0:13:44.05,Lines,,0,0,0,,Vậy ta tới đây!
+Dialogue: 0,0:14:09.57,0:14:12.33,Lines,,0,0,0,,Không nhìn thấy gì luôn...\NChuyện gì đang xảy ra vậy?
+Dialogue: 0,0:14:39.77,0:14:41.27,Lines,,0,0,0,,Fel, quá tay rồi đó!
+Dialogue: 0,0:14:45.53,0:14:47.94,Lines,,0,0,0,,Ta đã bảo sẽ không nương tay rồi mà!
+Dialogue: 0,0:14:47.94,0:14:49.74,Lines,,0,0,0,,Cũng nên có giới hạn thôi chứ!
+Dialogue: 0,0:14:50.41,0:14:51.74,Lines,,0,0,0,,Này!
+Dialogue: 0,0:14:51.74,0:14:52.70,Lines,,0,0,0,,Không sao...
+Dialogue: 0,0:14:54.08,0:15:00.92,Lines,,0,0,0,,Ngài Fenrir... đã đấu thật... vì tôi...\NXin cảm ơn...
+Dialogue: 0,0:15:01.33,0:15:03.54,Lines,,0,0,0,,Chết tiệt! Nhờ Sui đó!
+Dialogue: 0,0:15:03.54,0:15:04.63,Lines,,0,0,0,,Phải chữa rất nhiều đấy!
+Dialogue: 0,0:15:04.63,0:15:06.25,Lines,,0,0,0,,Sui biết rồi!
+Dialogue: 0,0:15:13.09,0:15:13.80,Lines,,0,0,0,,Có được không?
+Dialogue: 0,0:15:14.80,0:15:17.52,Lines,,0,0,0,,A... vết thương...
+Dialogue: 0,0:15:19.77,0:15:21.31,Lines,,0,0,0,,Tôi đã thua...
+Dialogue: 0,0:15:21.31,0:15:23.31,Lines,,0,0,0,,mà chẳng thể làm được gì...
+Dialogue: 0,0:15:27.28,0:15:31.20,Lines,,0,0,0,,Này, không phải vậy đâu...\NCứ nhìn đối phương mà xem.
+Dialogue: 0,0:15:31.86,0:15:32.49,Lines,,0,0,0,,Cái...
+Dialogue: 0,0:15:32.49,0:15:37.08,Lines,,0,0,0,,Mi đã làm bị thương được Ma thú\Ntrong truyền thuyết Fenrir rồi đó.
+Dialogue: 0,0:15:37.24,0:15:38.79,Lines,,0,0,0,,Có đúng không, Fel?
+Dialogue: 0,0:15:39.91,0:15:41.87,Lines,,0,0,0,,Tuy không muốn thừa nhận, nhưng đúng vậy.
+Dialogue: 0,0:15:42.79,0:15:45.75,Lines,,0,0,0,,Tôi đã... làm bị thương ngài Fenrir...
+Dialogue: 0,0:15:48.67,0:15:49.63,Lines,,0,0,0,,Gì vậy?
+Dialogue: 0,0:15:57.10,0:15:58.85,Lines,,0,0,0,,Tuyệt quá...
+Dialogue: 0,0:16:06.86,0:16:09.44,Lines,,0,0,0,,Tôi đã được công nhận là thủ lĩnh.
+Dialogue: 0,0:16:09.94,0:16:13.66,Lines,,0,0,0,,Ngài Fenrir... xin cảm ơn!
+Dialogue: 0,0:16:14.86,0:16:17.20,Lines,,0,0,0,,Hỡi con người... ta cho cậu thứ này.
+Dialogue: 0,0:16:18.58,0:16:20.33,Lines,,0,0,0,,A... cảm ơn...
+Dialogue: 0,0:16:20.33,0:16:24.12,Lines,,0,0,0,,Lần sau đi qua nơi này...\Ncậu sẽ không bị ăn thịt.
+Dialogue: 0,0:16:25.33,0:16:26.42,Lines,,0,0,0,,Cảm ơn...
+Dialogue: 0,0:16:27.04,0:16:29.21,Lines,,0,0,0,,Quả nhiên có ăn thịt người mà.
+Dialogue: 0,0:16:39.72,0:16:42.06,Lines,,0,0,0,,Hôm nay ta dùng sức nhiều hơn bình thường.
+Dialogue: 0,0:16:42.35,0:16:44.10,Lines,,0,0,0,,Nhớ làm nhiều thịt hơn.
+Dialogue: 0,0:16:44.10,0:16:46.06,Lines,,0,0,0,,Bình thường ông cũng ăn rõ lắm rồi mà.
+Dialogue: 0,0:16:46.44,0:16:47.65,Lines,,0,0,0,,Cơ mà...
+Dialogue: 0,0:16:47.86,0:16:51.28,Lines,,0,0,0,,Cũng nhờ Fel mà  cả bọn mới an toàn\Nra khỏi lãnh địa Griffon.
+Dialogue: 0,0:16:51.86,0:16:53.95,Lines,,0,0,0,,Cứ làm thêm ít thịt vậy.
+Dialogue: 0,0:16:54.74,0:16:57.37,Lines,,0,0,0,,Đầu tiên, chuẩn bị một phần thịt Orc mềm,
+Dialogue: 0,0:16:57.37,0:17:01.33,Lines,,0,0,0,,lần lượt phủ bột mì, trứng đánh bông\Nvà vụn bánh mì lên.
+Dialogue: 0,0:17:01.33,0:17:03.33,Lines,,0,0,0,,Để lớp bột ngoài trở nên giòn hơn,
+Dialogue: 0,0:17:03.33,0:17:06.12,Lines,,0,0,0,,ấn nhẹ một lần lớp vụn bánh mì.
+Dialogue: 0,0:17:08.04,0:17:10.75,Lines,,0,0,0,,Sau đó chiên trong dầu nóng.
+Dialogue: 0,0:17:17.55,0:17:20.06,Lines,,0,0,0,,Sau khi chiên xong thì cắt nhỏ bằng dao,
+Dialogue: 0,0:17:20.06,0:17:22.10,Lines,,0,0,0,,thêm bắp cải...
+Dialogue: 0,0:17:22.10,0:17:24.35,Lines,,0,0,0,,Cuối cùng là rưới nước xốt...
+Dialogue: 0,0:17:24.35,0:17:25.44,Lines,,0,0,0,,Hoàn thành!
+Dialogue: 0,0:17:25.44,0:17:26.94,Lines,,0,0,0,,Cuối cùng cũng xong rồi hả?
+Dialogue: 0,0:17:26.94,0:17:28.02,Lines,,0,0,0,,Hoan hô!
+Dialogue: 0,0:17:28.02,0:17:29.90,Lines,,0,0,0,,Hơi nóng đấy nên cẩn thận nhé!
+Dialogue: 0,0:17:31.40,0:17:34.78,Lines,,0,0,0,,Nóng quá... Ừm, nhưng mà ngon!
+Dialogue: 0,0:17:34.78,0:17:36.95,Lines,,0,0,0,,Ngon quá...
+Dialogue: 0,0:17:36.95,0:17:38.11,Lines,,0,0,0,,Ta thích món này đó!
+Dialogue: 0,0:17:38.62,0:17:40.53,Lines,,0,0,0,,Được rồi, mình cũng ăn thôi!
+Dialogue: 0,0:17:40.53,0:17:42.33,Lines,,0,0,0,,Chúc ngon miệng!
+Dialogue: 0,0:17:44.95,0:17:49.13,Lines,,0,0,0,,Cũng lâu rồi mới ăn thịt Orc, nhớ lại cái\Nbộ dạng đó cũng hơi gai gai...
+Dialogue: 0,0:17:49.34,0:17:52.03,Lines,,0,0,0,,Nhưng thế này nhìn cũng không khác\NTonkatsu bình thường.
+Dialogue: 0,0:17:57.18,0:18:00.43,Lines,,0,0,0,,Ngon quá! Quả nhiên thịt Orc ngon quá trời!
+Dialogue: 0,0:18:09.98,0:18:12.19,Lines,,0,0,0,,Ôi, đúng là hoàn hảo mà!
+Dialogue: 0,0:18:12.19,0:18:13.32,Lines,,0,0,0,,Này, ta thêm phần nữa!
+Dialogue: 0,0:18:13.32,0:18:14.82,Lines,,0,0,0,,Sui nữa!
+Dialogue: 0,0:18:14.82,0:18:16.99,Lines,,0,0,0,,Đây đây, đợi một chút!
+Dialogue: 0,0:18:18.49,0:18:22.58,Lines,,0,0,0,,Thiệt tình... Đúng là ăn bao nhiêu cũng không đủ.
+Dialogue: 0,0:18:24.87,0:18:29.62,Lines,,0,0,0,,Phải rồi, cậu có nhớ dâng lễ vật lên cho\Nnữ thần Ninlil không đấy?
+Dialogue: 0,0:18:29.62,0:18:32.04,Lines,,0,0,0,,Chết rồi! Tôi quên mất...
+Dialogue: 0,0:18:33.21,0:18:34.71,Lines,,0,0,0,,Úi trời!
+Dialogue: 0,0:18:34.71,0:18:36.38,Lines,,0,0,0,,Tên chết tiệt này!
+Dialogue: 0,0:18:36.38,0:18:37.59,Lines,,0,0,0,,Mau dâng lên đi!
+Dialogue: 0,0:18:37.59,0:18:40.22,Lines,,0,0,0,,Vâng, tôi làm luôn đây!
+Dialogue: 0,0:18:44.72,0:18:46.27,Lines,,0,0,0,,Trời trong xanh...
+Dialogue: 0,0:18:46.56,0:18:48.14,Lines,,0,0,0,,Đồng cỏ mát lành...
+Dialogue: 0,0:18:49.60,0:18:52.40,Lines,,0,0,0,,Cuối cùng cũng tạm biệt rừng rậm rồi!
+Dialogue: 0,0:18:52.40,0:18:54.19,Lines,,0,0,0,,Rộng quá!
+Dialogue: 0,0:18:54.19,0:18:56.36,Lines,,0,0,0,,Cũng đã gần tháng rưỡi rồi...
+Dialogue: 0,0:18:56.36,0:18:58.49,Lines,,0,0,0,,Thời gian quá dài...
+Dialogue: 0,0:19:03.95,0:19:06.70,Lines,,0,0,0,,Phía trước là Vương quốc Leonhardt rồi.
+Dialogue: 0,0:19:06.70,0:19:09.16,Lines,,0,0,0,,Có đường chính nào gần đây không nhỉ?
+Dialogue: 0,0:19:09.16,0:19:11.75,Lines,,0,0,0,,Chúng ta sắp hết thịt rồi nên cần mổ...
+Dialogue: 0,0:19:11.75,0:19:13.59,Lines,,0,0,0,,Sắp hết thịt rồi sao?
+Dialogue: 0,0:19:13.59,0:19:15.38,Lines,,0,0,0,,Đấy là vấn đề nghiêm trọng nhất còn gì.
+Dialogue: 0,0:19:15.38,0:19:16.92,Lines,,0,0,0,,Quả nhiên đó là vấn đề...
+Dialogue: 0,0:19:16.92,0:19:19.76,Lines,,0,0,0,,Bên kia có đường chính! Đi ngay thôi!
+Dialogue: 0,0:19:26.35,0:19:27.14,Lines,,0,0,0,,Hả?
+Dialogue: 0,0:19:27.43,0:19:28.52,Lines,,0,0,0,,Này, nhìn kìa!
+Dialogue: 0,0:19:28.52,0:19:29.23,Lines,,0,0,0,,Hử?
+Dialogue: 0,0:19:30.02,0:19:32.15,Lines,,0,0,0,,Xe ngựa à? Có cả người nữa kìa!
+Dialogue: 0,0:19:32.15,0:19:34.36,Lines,,0,0,0,,Có vẻ họ đang bị đạo tặc tấn công.
+Dialogue: 0,0:19:34.36,0:19:38.40,Lines,,0,0,0,,Fel, đi cứu họ đi!\NBữa tối nay tôi sẽ làm linh đình.
+Dialogue: 0,0:19:38.99,0:19:42.03,Lines,,0,0,0,,Nhớ lời cậu vừa nói đấy!
+Dialogue: 0,0:19:45.70,0:19:47.37,Lines,,0,0,0,,Đừng có ló mặt ra!
+Dialogue: 0,0:20:05.39,0:20:06.22,Lines,,0,0,0,,Hả?
+Dialogue: 0,0:20:06.22,0:20:08.64,Lines,,0,0,0,,Sui, bịt kín tai cậu ta lại.
+Dialogue: 0,0:20:08.64,0:20:10.10,Lines,,0,0,0,,Hiểu rồi.
+Dialogue: 0,0:20:22.11,0:20:23.74,Lines,,0,0,0,,Lũ đạo tặc kia!
+Dialogue: 0,0:20:23.74,0:20:26.57,Lines,,0,0,0,,Dám nhúc nhích\Nlà ta sẽ nuốt chửng các ngươi!
+Dialogue: 0,0:20:27.08,0:20:29.37,Lines,,0,0,0,,Biết điều thì mau buông vũ khí!
+Dialogue: 0,0:20:34.79,0:20:39.13,Lines,,0,0,0,,Tôi là Lambert, chủ đoàn thương nhân lưu động này.
+Dialogue: 0,0:20:39.13,0:20:41.88,Lines,,0,0,0,,Thực sự rất cảm ơn cậu,.
+Dialogue: 0,0:20:41.88,0:20:45.93,Lines,,0,0,0,,Còn tôi là thủ lĩnh của nhóm Mạo hiểm giả\Nhộ tống Phoenix, Lars.
+Dialogue: 0,0:20:45.93,0:20:47.51,Lines,,0,0,0,,Cảm ơn cậu đã ra tay trợ giúp.
+Dialogue: 0,0:20:47.76,0:20:49.89,Lines,,0,0,0,,Tôi là Mukoda.
+Dialogue: 0,0:20:50.18,0:20:53.39,Lines,,0,0,0,,Bên đó phải chăng là Tòng Ma của cậu?
+Dialogue: 0,0:20:53.39,0:20:55.14,Lines,,0,0,0,,À, vâng ạ...
+Dialogue: 0,0:20:55.56,0:20:56.73,Lines,,0,0,0,,Ồ...
+Dialogue: 0,0:20:56.73,0:21:00.57,Lines,,0,0,0,,Tôi từng nghe có một Mạo hiểm giả\Ncó Tòng Ma là Fenrir...
+Dialogue: 0,0:21:01.94,0:21:03.90,Lines,,0,0,0,,Mà mọi người đang đi đâu thế ạ?
+Dialogue: 0,0:21:03.90,0:21:07.28,Lines,,0,0,0,,Chúng tôi đang trên đường\Ntrở về Karelina.
+Dialogue: 0,0:21:07.28,0:21:08.70,Lines,,0,0,0,,Karelina...
+Dialogue: 0,0:21:09.45,0:21:12.20,Lines,,0,0,0,,Thật ra chúng tôi cũng mới\Nchân ướt chân ráo tới đây...
+Dialogue: 0,0:21:12.45,0:21:14.08,Lines,,0,0,0,,Vậy sao?
+Dialogue: 0,0:21:14.08,0:21:17.29,Lines,,0,0,0,,Đó là tên một thành phố ở phía Tây Bắc\NVương quốc Leonhardt.
+Dialogue: 0,0:21:18.29,0:21:19.09,Lines,,0,0,0,,Ừm...
+Dialogue: 0,0:21:19.09,0:21:23.13,Lines,,0,0,0,,Vậy nếu không phiền tôi, có thể đi cùng\Nmọi người tới thành phố không?
+Dialogue: 0,0:21:23.80,0:21:25.05,Lines,,0,0,0,,Vậy có được không?
+Dialogue: 0,0:21:25.05,0:21:26.43,Lines,,0,0,0,,Tất nhiên rồi!
+Dialogue: 0,0:21:26.55,0:21:29.10,Lines,,0,0,0,,Có mọi người ở đây thì tôi rất yên tâm.
+Dialogue: 0,0:21:29.10,0:21:31.85,Lines,,0,0,0,,Mong được cậu giúp đỡ.
+Dialogue: 0,0:21:33.35,0:21:34.98,Lines,,0,0,0,,Mong được mọi người giúp đỡ ạ.
+Dialogue: 0,0:21:36.93,0:21:40.72,Lines,,0,0,0,,Những câu chuyện khiến người ta bồi hồi,
+Dialogue: 0,0:21:41.97,0:21:46.10,Lines,,0,0,0,,cho dù có thất bại cũng không sao\Nvì đó là hành trình của tôi
+Dialogue: 0,0:21:47.06,0:21:58.53,Lines,,0,0,0,,Nào, hãy ngẩng đầu lên, vì nụ cười đó\Nđã khiến tôi vui tươi trở lại.
+Dialogue: 0,0:21:58.53,0:22:01.70,Lines,,0,0,0,,Thật phấn khích khi được đi cùng nhau
+Dialogue: 0,0:22:01.70,0:22:04.29,Lines,,0,0,0,,Hãy cùng nhau khởi hành nào
+Dialogue: 0,0:22:04.29,0:22:09.29,Lines,,0,0,0,,Cho dù có chuyện gì, đừng lo lắng\Nvì chúng ta luôn bên nhau
+Dialogue: 0,0:22:09.29,0:22:14.51,Lines,,0,0,0,,Chỉ cần chúng ta bên nhau, những ngày\Ndạo bước vòng quanh cũng trở nên thú vị
+Dialogue: 0,0:22:14.80,0:22:19.51,Lines,,0,0,0,,Hãy để Groovy và Bless khớp lại với nhau
+Dialogue: 0,0:22:22.64,0:22:30.02,Lines,,0,0,0,,Nhún nhảy đôi chân, vỗ tay theo nhịp.
+Dialogue: 0,0:22:33.33,0:22:35.16,Lines,,0,0,0,,Cái tên dị giới này...
+Dialogue: 0,0:22:35.16,0:22:38.71,Lines,,0,0,0,,Đã một tuần rồi không thấy\Ncầu nguyện hay dâng lễ gì...
+Dialogue: 0,0:22:38.71,0:22:40.83,Lines,,0,0,0,,Hắn nghĩ nữ thần là gì chứ?
+Dialogue: 0,0:22:42.71,0:22:44.46,Lines,,0,0,0,,Thưa nữ thần gió Ninlil...
+Dialogue: 0,0:22:44.71,0:22:46.13,Lines,,0,0,0,,Tuy có hơi trễ...
+Dialogue: 0,0:22:46.13,0:22:47.84,Lines,,0,0,0,,Trễ quá rồi đấy!
+Dialogue: 0,0:22:47.84,0:22:49.55,Lines,,0,0,0,,Xin thứ lỗi ạ!
+Dialogue: 0,0:22:49.55,0:22:51.30,Lines,,0,0,0,,Phía này cũng có rất nhiều chuyện...
+Dialogue: 0,0:22:51.30,0:22:52.80,Lines,,0,0,0,,Đừng có bịa chuyện!
+Dialogue: 0,0:22:52.80,0:22:54.60,Lines,,0,0,0,,Ta thấy tất cả rồi!
+Dialogue: 0,0:22:54.60,0:22:56.77,Lines,,0,0,0,,Chẳng phải chỉ là ngươi quên sao?
+Dialogue: 0,0:22:57.43,0:23:00.44,Lines,,0,0,0,,Từ giờ tôi sẽ chú ý... Xin hãy thứ lỗi...
+Dialogue: 0,0:23:00.44,0:23:03.31,Lines,,0,0,0,,Tuyệt đối không được có lần sau đâu đấy!
+Dialogue: 0,0:23:03.31,0:23:06.61,Lines,,0,0,0,,Có biết ta đã cố gửi biết bao nhiêu\Nthông điệp rồi không?
+Dialogue: 0,0:23:06.61,0:23:10.70,Lines,,0,0,0,,Để tạ lỗi, hôm nay tôi đã chuẩn bị\Nmột số đồ ngọt phương Tây...
+Dialogue: 0,0:23:10.74,0:23:12.70,Lines,,0,0,0,,Nhất định ngài sẽ thích chúng...
+Dialogue: 0,0:23:14.74,0:23:15.83,Lines,,0,0,0,,Ồ...
+Dialogue: 0,0:23:18.45,0:23:19.62,Lines,,0,0,0,,Úi chao!
+Dialogue: 0,0:23:19.62,0:23:20.33,Lines,,0,0,0,,Úi chao...?
+Dialogue: 0,0:23:20.37,0:23:22.29,Lines,,0,0,0,,Đây là đồ ngọt phương Tây sao?
+Dialogue: 0,0:23:22.29,0:23:24.38,Lines,,0,0,0,,Khác biệt hoàn toàn luôn nè!
+Dialogue: 0,0:23:24.75,0:23:26.96,Lines,,0,0,0,,Lại còn nhiều quá trời luôn nữa...
+Dialogue: 0,0:23:27.42,0:23:30.01,Lines,,0,0,0,,Chắc có lẽ vậy cũng hơi nhiều...
+Dialogue: 0,0:23:30.01,0:23:31.34,Lines,,0,0,0,,Không sao, không sao...
+Dialogue: 0,0:23:33.34,0:23:35.01,Lines,,0,0,0,,Cái gì đây?
+Dialogue: 0,0:23:35.68,0:23:37.56,Lines,,0,0,0,,Lần tới cũng phải dâng lên chừng này đấy!
+Dialogue: 0,0:23:37.89,0:23:38.43,Lines,,0,0,0,,Ế?
+Dialogue: 0,0:23:38.43,0:23:40.64,Lines,,0,0,0,,Đây là mệnh lệnh! Mệnh lệnh đấy!
+Dialogue: 0,0:23:41.14,0:23:43.10,Lines,,0,0,0,,À, tôi biết rồi ạ...
+Dialogue: 0,0:23:45.77,0:23:48.61,Lines,,0,0,0,,Fel đây! Ta cứ nghĩ là đã ăn hầu hết\Ntất cả mọi thứ rồi...
+Dialogue: 0,0:23:48.61,0:23:51.32,Lines,,0,0,0,,nhưng đồ do cậu ta làm thì\Nmới là lần đầu tiên.
+Dialogue: 0,0:23:51.32,0:23:53.11,Lines,,0,0,0,,{\an1}Quái vật cấp Boss đều ngon cả.
+Dialogue: 0,0:23:53.11,0:23:54.87,Lines,,0,0,0,,{\an1}Mới nghĩ thôi đã chảy nước miếng rồi!
