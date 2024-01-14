@@ -1,0 +1,301 @@
+﻿[Script Info]
+Title: Bilibili Subtitle
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 1920
+PlayResY: 1080
+YCbCr Matrix: None
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,77,&H00FFFFFF,&H000000FF,&H00404040,&H00000000,0,0,0,0,100,100,0,0,1,2.99998,0,2,72,72,35,1
+Style: DefaultTop,Arial,77,&H00FFFFFF,&H000000FF,&H00404040,&H00000000,0,0,0,0,75,75,0,0,1,2.25,0,8,72,72,35,1
+Style: Superscript,Arial,77,&H00FFFFFF,&H000000FF,&H00404040,&H00000000,0,0,0,0,75,75,0,0,1,2.25,0,2,72,72,104,1
+Style: SuperscriptTop,Arial,77,&H00FFFFFF,&H000000FF,&H00404040,&H00000000,0,0,0,0,45,45,0,0,1,1.75,0,8,72,72,0,1
+Style: Annotation,Arial,77,&H00FFFFFF,&H000000FF,&H00404040,&H00000000,0,0,0,0,75,75,0,0,1,2.25,0,7,72,72,35,1
+Style: Screen,Arial,59,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.5,0,2,0,0,152,1
+Style: Default_single,Arial,77,&H00FFFFFF,&H000000FF,&H00404040,&H00000000,0,0,0,0,100,100,0,0,1,3.00001,0,2,72,72,35,1
+Style: 谷歌搜索,Arial,77,&H0099958F,&H000000FF,&H0099958F,&H00000000,0,0,0,0,75,75,0,0,1,0,0,7,72,72,35,1
+Style: DefaultTop_single - OPED,Arial,77,&H00FFFFFF,&H000000FF,&H00404040,&H00000000,0,0,0,0,75,75,0,0,1,3.00001,0,8,21,21,8,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:25.33,0:00:27.08,Default,,0,0,0,,Kuroi nhắn tin này.
+Dialogue: 0,0:00:29.42,0:00:31.08,Default,,0,0,0,,Làm sao đây?
+Dialogue: 0,0:00:31.73,0:00:33.04,Default,,0,0,0,,Kuroi đang...
+Dialogue: 0,0:00:33.60,0:00:35.04,Default,,0,0,0,,Kuroi đang...
+Dialogue: 0,0:00:37.17,0:00:39.38,Default,,0,0,0,,Vẫn có khả năng có bất trắc xảy ra!
+Dialogue: 0,0:00:39.38,0:00:41.57,Default,,0,0,0,,Cậu Geto nhanh hơn tôi,
+Dialogue: 0,0:00:41.57,0:00:44.00,Default,,0,0,0,,xin cậu hãy tới chỗ tiểu thư trước đi.
+Dialogue: 0,0:00:46.71,0:00:49.32,Default,,0,0,0,,Xin lỗi, là sơ suất của tôi.
+Dialogue: 0,0:00:49.32,0:00:50.71,Default,,0,0,0,,Vậy sao?
+Dialogue: 0,0:00:50.71,0:00:53.03,Default,,0,0,0,,Có gì đâu mà sơ với suất.
+Dialogue: 0,0:00:53.03,0:00:56.57,Default,,0,0,0,,Tôi đã đánh giá sai tầm quan trọng\Ncủa chị Kuroi với kẻ địch.
+Dialogue: 0,0:00:56.96,0:00:58.57,Default,,0,0,0,,Tiếp theo đối phương
+Dialogue: 0,0:00:58.57,0:01:01.09,Default,,0,0,0,,hẳn là sẽ yêu cầu trao đổi\Ncon tin với chúng ta.
+Dialogue: 0,0:01:01.40,0:01:03.89,Default,,0,0,0,,Ví dụ như đổi Amanai lấy chị Kuroi đó.
+Dialogue: 0,0:01:03.89,0:01:07.59,Default,,0,0,0,,Hoặc là dọa nếu không giết Amanai\Nthì sẽ giết chị Kuroi.
+Dialogue: 0,0:01:07.93,0:01:12.09,Default,,0,0,0,,Nhưng vì Amanai đang ở bên đây,\Nnên chúng ta mới là người có lợi thế đàm phán.
+Dialogue: 0,0:01:12.09,0:01:14.45,Default,,0,0,0,,Chỉ cần chọn được địa điểm trao đổi thôi
+Dialogue: 0,0:01:14.45,0:01:16.60,Default,,0,0,0,,thì sau đó chúng ta sẽ có cách.
+Dialogue: 0,0:01:17.28,0:01:19.90,Default,,0,0,0,,Cứ đưa Amanai về thẳng trường chuyên môn đi.
+Dialogue: 0,0:01:19.90,0:01:21.93,Default,,0,0,0,,Bảo Shoko hay ai đó\Nlàm người đóng giả là được.
+Dialogue: 0,0:01:21.93,0:01:23.79,Default,,0,0,0,,Khoan đã!
+Dialogue: 0,0:01:24.29,0:01:26.21,Default,,0,0,0,,Ta cũng sẽ tới địa điểm trao đổi.
+Dialogue: 0,0:01:26.21,0:01:28.00,Default,,0,0,0,,Ta vẫn chưa tin tưởng được các người đâu.
+Dialogue: 0,0:01:28.00,0:01:29.01,Default,,0,0,0,,Hả!?
+Dialogue: 0,0:01:29.01,0:01:30.68,Default,,0,0,0,,Đến lúc nào rồi mà con nhãi này vẫn...
+Dialogue: 0,0:01:30.68,0:01:32.28,Default,,0,0,0,,Dù cho các người cứu được Kuroi đi nữa!
+Dialogue: 0,0:01:33.62,0:01:38.31,Default,,0,0,0,,Nếu chị ấy không trở về kịp\Ntrước khi tôi đồng hóa với ngài Tengen thì...
+Dialogue: 0,0:01:38.71,0:01:39.96,Default,,0,0,0,,Tôi vẫn chưa...
+Dialogue: 0,0:01:43.18,0:01:45.76,Default,,0,0,0,,nói lời từ biệt với chị ấy mà.
+Dialogue: 0,0:01:56.28,0:01:59.81,Default,,0,0,0,,Đám bắt cóc sẽ sớm chủ động\Nliên lạc với chúng ta thôi.
+Dialogue: 0,0:01:59.81,0:02:02.79,Default,,0,0,0,,Nếu đầu óc của bọn chúng lanh lẹ hơn tôi nghĩ,
+Dialogue: 0,0:02:02.79,0:02:07.78,Default,,0,0,0,,nếu dẫn cô theo có nguy cơ làm giảm\Nkhả năng sống sót của chị Kuroi...
+Dialogue: 0,0:02:11.13,0:02:13.83,Default,,0,0,0,,Thì đúng là tôi sẽ bỏ cô lại.
+Dialogue: 0,0:02:21.30,0:02:22.71,Default,,0,0,0,,Được thôi.
+Dialogue: 0,0:02:22.71,0:02:24.58,Default,,0,0,0,,Cứ làm vậy đi.
+Dialogue: 0,0:02:25.00,0:02:31.30,Default,,0,0,0,,Ngược lại, nếu nửa đường sợ quá đòi về\Nthì tôi vẫn sẽ lôi cổ theo đấy.
+Dialogue: 0,0:02:31.30,0:02:33.59,Default,,0,0,0,,Chuẩn bị tinh thần đi.
+Dialogue: 0,0:02:38.58,0:02:41.27,Default,,0,0,0,,Chào mừng!
+Dialogue: 0,0:02:45.25,0:02:48.00,Default,,0,0,0,,(Ngày bảo vệ thứ hai)
+Dialogue: 0,0:02:48.00,0:02:51.02,Default,,0,0,0,,(Okinawa)
+Dialogue: 0,0:02:51.02,0:02:54.02,Default,,0,0,0,,(Tập 27 Hoài Ngọc - 3 -)
+Dialogue: 0,0:03:03.19,0:03:08.15,Default,,0,0,0,,(Chú Thuật Hồi Chiến 2)\N(Hoài Ngọc - Ngọc Chiết)
+Dialogue: 0,0:04:29.50,0:04:31.86,Default,,0,0,0,,Không ngờ tôi lại bị tín đồ Bàn Tinh Giáo...
+Dialogue: 0,0:04:31.86,0:04:33.97,Default,,0,0,0,,bị một đám không phải thuật sĩ bắt giữ.
+Dialogue: 0,0:04:34.43,0:04:36.47,Default,,0,0,0,,Thật mất mặt quá đi.
+Dialogue: 0,0:04:36.47,0:04:39.14,Default,,0,0,0,,Chị bị đánh lén mà, đành chịu thôi.
+Dialogue: 0,0:04:39.14,0:04:40.95,Default,,0,0,0,,Với đây cũng là trách nhiệm của tôi nữa.
+Dialogue: 0,0:04:41.51,0:04:44.74,Default,,0,0,0,,Tôi đã bị... đánh lén thật sao?
+Dialogue: 0,0:04:46.11,0:04:51.19,Default,,0,0,0,,Sau vụ "Q" mình đã đề cao cảnh giác rồi mà.
+Dialogue: 0,0:04:51.19,0:04:52.72,Default,,0,0,0,,Kuroi.
+Dialogue: 0,0:04:54.12,0:04:57.81,Default,,0,0,0,,Sao mình không nhớ gì lúc bị đánh lén hết vậy ta?
+Dialogue: 0,0:04:58.12,0:05:00.89,Default,,0,0,0,,Mà phải rồi, các cậu đi máy bay tới đây nhỉ?
+Dialogue: 0,0:05:00.89,0:05:03.94,Default,,0,0,0,,Như thế không sao chứ? Bị tập kích chẳng hạn...
+Dialogue: 0,0:05:03.94,0:05:06.55,Default,,0,0,0,,Mắt Satoru tinh lắm.
+Dialogue: 0,0:05:07.68,0:05:10.47,Default,,0,0,0,,Trước lúc máy bay cất cánh cậu ta đã kiểm tra kỹ
+Dialogue: 0,0:05:12.00,0:05:14.68,Default,,0,0,0,,cả trong ngoài hành khách và phi hành đoàn rồi.
+Dialogue: 0,0:05:14.68,0:05:18.62,Default,,0,0,0,,Trong quá trình bay, tôi của bố trí chú linh\Nbảo vệ bên ngoài nữa.
+Dialogue: 0,0:05:20.43,0:05:23.37,Default,,0,0,0,,Như thế còn ít nguy cơ hơn\Nmấy tuyến đường tào lao ấy chứ.
+Dialogue: 0,0:05:24.50,0:05:26.39,Default,,0,0,0,,Điều tôi quan tâm hơn
+Dialogue: 0,0:05:26.39,0:05:29.64,Default,,0,0,0,,là tại sao địa điểm chỉ định lại là Okinawa.
+Dialogue: 0,0:05:29.64,0:05:32.13,Default,,0,0,0,,Chắc chúng muốn kéo dài thời gian chăng?
+Dialogue: 0,0:05:32.13,0:05:34.63,Default,,0,0,0,,(Lịch trình du lịch)\NDù bọn chúng không thể giết tiểu thư Riko,
+Dialogue: 0,0:05:34.63,0:05:37.14,Default,,0,0,0,,(Lịch trình du lịch)\Nthì vẫn có thể khiến chúng ta bị trễ trăng tròn ngày mai.
+Dialogue: 0,0:05:37.14,0:05:38.81,Default,,0,0,0,,(Hết lịch trình, Amanai đồng hóa, việc bảo vệ kết thúc)\NNếu đã vậy,
+Dialogue: 0,0:05:38.81,0:05:42.10,Default,,0,0,0,,(Hết lịch trình, Amanai đồng hóa, việc bảo vệ kết thúc)\Nlẽ ra phải chọn một chỗ có hạ tầng giao thông kém\Nkhông tiện đi lại chứ.
+Dialogue: 0,0:05:42.10,0:05:45.41,Default,,0,0,0,,Chẳng lẽ chúng định chiếm sân bay à?
+Dialogue: 0,0:05:45.41,0:05:46.93,Default,,0,0,0,,Cũng có thể lắm.
+Dialogue: 0,0:05:46.93,0:05:48.12,Default,,0,0,0,,Nhưng chị đừng lo.
+Dialogue: 0,0:05:48.75,0:05:50.07,Default,,0,0,0,,Không phải chỉ có chúng ta đến đây đâu.
+Dialogue: 0,0:05:50.07,0:05:52.12,Default,,0,0,0,,(Sân bay Naha)\NKhông phải chỉ có chúng ta đến đây đâu.
+Dialogue: 0,0:05:53.50,0:05:54.82,Default,,0,0,0,,Nghĩ đi nghĩ lại,
+Dialogue: 0,0:05:54.82,0:05:57.77,Default,,0,0,0,,(Năm nhất, Trường Cao đẳng Chuyên môn Chú thuật)\N(Nanami Kento)\Nđây đâu phải nhiệm vụ giao cho năm nhất trời.
+Dialogue: 0,0:05:57.77,0:06:00.06,Default,,0,0,0,,(Năm nhất, Trường Cao đẳng Chuyên môn Chú thuật)\N(Haibara Yu)\NTớ thì lại đang hào hứng hết sức đây!
+Dialogue: 0,0:06:00.06,0:06:02.63,Default,,0,0,0,,(Năm nhất, Trường Cao đẳng Chuyên môn Chú thuật)\N(Haibara Yu)\NMong được thể hiện cho anh Geto thấy quá đi.
+Dialogue: 0,0:06:02.63,0:06:03.70,Default,,0,0,0,,Hơn nữa,
+Dialogue: 0,0:06:03.70,0:06:08.20,Default,,0,0,0,,các anh ấy đang phải hy sinh thân mình\Nđể bảo vệ cho một cô gái yếu đuối.
+Dialogue: 0,0:06:08.20,0:06:11.10,Default,,0,0,0,,Sao chúng ta có thể không cố gắng chứ?
+Dialogue: 0,0:06:11.10,0:06:15.48,Default,,0,0,0,,Nếu bão tới rồi sân bay đóng cửa\Nlà nỗ lực thành công cốc hết đấy.
+Dialogue: 0,0:06:16.85,0:06:18.12,Default,,0,0,0,,(Đàn anh ấy đang phải hy sinh thân mình)
+Dialogue: 0,0:06:18.12,0:06:19.36,Default,,0,0,0,,Hải sâm này!\N(Đàn anh ấy đang phải hy sinh thân mình)
+Dialogue: 0,0:06:19.36,0:06:22.31,Default,,0,0,0,,Eo ôi, kinh quá đi.
+Dialogue: 0,0:06:23.56,0:06:25.87,Default,,0,0,0,,Đi du lịch thảnh thơi thế này có ổn không vậy?
+Dialogue: 0,0:06:25.87,0:06:28.50,Default,,0,0,0,,Chính Satoru bảo được mà.
+Dialogue: 0,0:06:28.50,0:06:31.70,Default,,0,0,0,,Cậu ấy đang quan tâm Riko\Ntheo cách của riêng mình.
+Dialogue: 0,0:06:32.83,0:06:34.25,Default,,0,0,0,,Nhưng cũng nên đi thôi.
+Dialogue: 0,0:06:35.27,0:06:36.95,Default,,0,0,0,,Satoru, đến giờ rồi.
+Dialogue: 0,0:06:37.50,0:06:39.75,Default,,0,0,0,,Đã muộn vậy rồi à?
+Dialogue: 0,0:06:44.93,0:06:47.86,Default,,0,0,0,,Đổi ngày về thành sáng mai đi Suguru.
+Dialogue: 0,0:06:50.25,0:06:51.75,Default,,0,0,0,,Nhưng...
+Dialogue: 0,0:06:51.75,0:06:54.23,Default,,0,0,0,,Thời tiết cũng đang đẹp còn gì.
+Dialogue: 0,0:06:55.06,0:06:56.02,Default,,0,0,0,,Chưa kể...
+Dialogue: 0,0:06:56.43,0:06:58.93,Default,,0,0,0,,So với Tokyo thì Okinawa này...
+Dialogue: 0,0:06:58.93,0:07:00.93,Default,,0,0,0,,(Chú nguyền sư)\NCó ít chú nguyền sư hơn.
+Dialogue: 0,0:07:00.93,0:07:03.32,Default,,0,0,0,,Nói chuyện cho nghiêm chỉnh\Nđược không hả Satoru?
+Dialogue: 0,0:07:04.11,0:07:07.68,Default,,0,0,0,,- Tiểu thư, đây là sao biển đó.\N- Bay về lúc treo thưởng\Ncủa Amanai hết hạn thì tốt hơn chứ.
+Dialogue: 0,0:07:07.68,0:07:08.69,Default,,0,0,0,,Đúng thật
+Dialogue: 0,0:07:08.69,0:07:09.82,Default,,0,0,0,,Satoru.
+Dialogue: 0,0:07:09.82,0:07:12.85,Default,,0,0,0,,Từ hôm qua đến giờ\Ncậu vẫn chưa giải thuật thức nhỉ.
+Dialogue: 0,0:07:12.85,0:07:14.43,Default,,0,0,0,,Cũng chưa ngủ nữa.
+Dialogue: 0,0:07:14.43,0:07:16.31,Default,,0,0,0,,Và cả tối nay cũng không định ngủ phải không?
+Dialogue: 0,0:07:16.70,0:07:20.32,Default,,0,0,0,,Thật sự không đưa cô ấy\Nvề trường chuyên môn sao?
+Dialogue: 0,0:07:21.83,0:07:23.81,Default,,0,0,0,,Nhằm gì.
+Dialogue: 0,0:07:23.81,0:07:28.12,Default,,0,0,0,,Lúc chơi Momoden 99 năm còn mệt hơn ấy chứ.
+Dialogue: 0,0:07:29.01,0:07:29.86,Default,,0,0,0,,Với lại...
+Dialogue: 0,0:07:30.33,0:07:32.27,Default,,0,0,0,,còn có cậu ở đây mà.
+Dialogue: 0,0:07:38.31,0:07:39.43,Default,,0,0,0,,Nanami.
+Dialogue: 0,0:07:39.43,0:07:41.31,Default,,0,0,0,,Bảo ở lại thêm một hôm nữa kìa.
+Dialogue: 0,0:07:41.31,0:07:42.72,Default,,0,0,0,,Có chuyện gì xảy ra rồi chăng?
+Dialogue: 0,0:08:33.07,0:08:36.57,Default,,0,0,0,,(Biển Kuroshio)
+Dialogue: 0,0:09:29.71,0:09:31.97,Default,,0,0,0,,(Chân núi Mushiro)\N(Trường Cao đẳng Chuyên môn Chú thuật)
+Dialogue: 0,0:09:33.45,0:09:36.40,Default,,0,0,0,,(Ngày bảo vệ thứ ba, 15:00)
+Dialogue: 0,0:09:36.40,0:09:38.23,Default,,0,0,0,,Mọi người vất vả rồi.
+Dialogue: 0,0:09:40.66,0:09:42.80,Default,,0,0,0,,Vào bên trong kết giới\Ncủa trường chuyên môn rồi.
+Dialogue: 0,0:09:44.22,0:09:46.24,Default,,0,0,0,,Thế này là yên tâm rồi nhỉ.
+Dialogue: 0,0:09:46.24,0:09:47.26,Default,,0,0,0,,Phải ạ.
+Dialogue: 0,0:09:49.40,0:09:50.40,Default,,0,0,0,,Satoru.
+Dialogue: 0,0:09:50.40,0:09:51.27,Default,,0,0,0,,Hửm?
+Dialogue: 0,0:09:52.01,0:09:54.03,Default,,0,0,0,,Cậu vất vả rồi.
+Dialogue: 0,0:09:57.44,0:10:00.62,Default,,0,0,0,,Thề không bao giờ\Nlàm bảo mẫu cho mấy đứa ranh con nữa.
+Dialogue: 0,0:10:00.62,0:10:01.50,Default,,0,0,0,,Gì?
+Dialogue: 0,0:10:10.51,0:10:12.05,Default,,0,0,0,,Không thể nào.
+Dialogue: 0,0:10:12.05,0:10:16.26,Default,,0,0,0,,Chúng ta đang ở bên trong\Nkết giới của trường rồi mà!
+Dialogue: 0,0:10:16.58,0:10:20.01,Default,,0,0,0,,Chúng ta có gặp nhau ở đâu chưa nhỉ?
+Dialogue: 0,0:10:20.01,0:10:23.17,Default,,0,0,0,,Để ý làm gì, ta đây cũng dở...
+Dialogue: 0,0:10:23.17,0:10:26.01,Default,,0,0,0,,nhớ mặt với tên đám đực rựa lắm.
+Dialogue: 0,0:10:29.45,0:10:30.87,Default,,0,0,0,,(Chú Thuật Hồi Chiến 2)
+Dialogue: 0,0:10:34.66,0:10:41.03,Default,,0,0,0,,Ta đã từng tò mò đến ngó thử mặt mũi\Ncon quỷ Lục Nhãn nhà Gojo sinh ra.
+Dialogue: 0,0:11:00.04,0:11:01.87,Default,,0,0,0,,Trước kia không có\Nvà sau này cũng không bao giờ.
+Dialogue: 0,0:11:01.87,0:11:04.75,Default,,0,0,0,,Chưa từng có ai phát hiện ra\Nta đang đứng ở phía sau.
+Dialogue: 0,0:11:04.75,0:11:06.62,Default,,0,0,0,,Chỉ trừ lần đó.
+Dialogue: 0,0:11:07.02,0:11:09.27,Default,,0,0,0,,Cho nên ta mới phải bào mòn ngươi.
+Dialogue: 0,0:11:14.14,0:11:16.39,Default,,0,0,0,,Cho đến khi ngươi trở nên hết sắc bén mới được.
+Dialogue: 0,0:11:26.37,0:11:27.57,Default,,0,0,0,,Satoru.
+Dialogue: 0,0:11:28.96,0:11:30.64,Default,,0,0,0,,Không vấn đề.
+Dialogue: 0,0:11:30.64,0:11:32.64,Default,,0,0,0,,Tuy không kịp triển khai thuật thức
+Dialogue: 0,0:11:32.64,0:11:34.28,Default,,0,0,0,,nhưng không trúng nội tạng.
+Dialogue: 0,0:11:34.28,0:11:36.32,Default,,0,0,0,,Ngay sau đó cũng dùng chú lực cường hóa rồi,
+Dialogue: 0,0:11:36.32,0:11:38.64,Default,,0,0,0,,lưỡi đao đó không làm tổn thương chỗ nào được cả.
+Dialogue: 0,0:11:38.64,0:11:43.37,Default,,0,0,0,,Chỉ như cây kim băng\Nđâm qua lớp áo len thôi mà.
+Dialogue: 0,0:11:43.37,0:11:45.10,Default,,0,0,0,,Không nhằm nhò gì thật đó.
+Dialogue: 0,0:11:45.44,0:11:47.85,Default,,0,0,0,,Quan trọng hơn là ưu tiên Amanai đi kìa.
+Dialogue: 0,0:11:47.85,0:11:50.21,Default,,0,0,0,,Tôi sẽ làm đối thủ của hắn.
+Dialogue: 0,0:11:51.07,0:11:55.32,Default,,0,0,0,,Cậu dẫn họ đến chỗ ngài Tengen trước đi, Suguru.
+Dialogue: 0,0:11:56.15,0:11:57.52,Default,,0,0,0,,Satoru...
+Dialogue: 0,0:12:03.00,0:12:04.94,Default,,0,0,0,,Đừng có khinh địch đấy.
+Dialogue: 0,0:12:04.94,0:12:05.97,Default,,0,0,0,,Chúng ta đi thôi.
+Dialogue: 0,0:12:06.38,0:12:06.99,Default,,0,0,0,,Vâng!
+Dialogue: 0,0:12:08.32,0:12:10.00,Default,,0,0,0,,Nhắc ai thế không biết.
+Dialogue: 0,0:12:17.00,0:12:20.38,Default,,0,0,0,,Thanh đao đó khác với thanh vừa đâm mình.
+Dialogue: 0,0:12:20.38,0:12:23.26,Default,,0,0,0,,Con chú linh đó nữa, từ xó nào chui ra vậy?
+Dialogue: 0,0:12:23.62,0:12:26.74,Default,,0,0,0,,Khốn kiếp, không lần ra được bản chất của nó.
+Dialogue: 0,0:12:26.74,0:12:29.27,Default,,0,0,0,,Tinh Tương Thể đâu mất rồi.
+Dialogue: 0,0:12:29.27,0:12:33.78,Default,,0,0,0,,Đáng lẽ ta định kết liễu ngươi\Nbằng cú hồi nãy cơ, chắc lụt nghề rồi.
+Dialogue: 0,0:12:33.78,0:12:37.27,Default,,0,0,0,,Treo thưởng của Amanai hết hạn rồi, đồ ngu.
+Dialogue: 0,0:12:37.27,0:12:40.28,Default,,0,0,0,,Chính ta hủy nó chứ ai,\Nđừng có ráng ra vẻ cứng cựa nữa.
+Dialogue: 0,0:12:40.79,0:12:43.29,Default,,0,0,0,,Để đối phó với một đứa ít sơ hở như ngươi,
+Dialogue: 0,0:12:43.29,0:12:47.03,Default,,0,0,0,,ta đã phải điều chỉnh nhịp độ\Nvà tạo ra mấy cái đích trá hình đấy.
+Dialogue: 0,0:12:47.03,0:12:51.53,Default,,0,0,0,,Dù lúc đám Bàn Tinh Giáo chạy đến\NOkinawa làm ta chết cười thật.
+Dialogue: 0,0:12:51.53,0:12:55.20,Default,,0,0,0,,Dù không giết được đứa thuật sư nào\Nbên cạnh ngươi thì bực thật đấy.
+Dialogue: 0,0:12:55.20,0:12:57.67,Default,,0,0,0,,Nhưng nếu không đặt\Ngiới hạn thời gian treo thưởng,
+Dialogue: 0,0:12:58.44,0:13:02.17,Default,,0,0,0,,thì chắc đến phút cuối\Nngươi cũng không giải trừ thuật thức đâu nhỉ?
+Dialogue: 0,0:13:02.87,0:13:04.61,Default,,0,0,0,,Thế cơ đấy!
+Dialogue: 0,0:13:09.78,0:13:11.37,Default,,0,0,0,,Nhanh quá.
+Dialogue: 0,0:13:11.37,0:13:12.88,Default,,0,0,0,,Mà không chỉ có thế...
+Dialogue: 0,0:13:12.88,0:13:15.89,Default,,0,0,0,,Biết là tên này có gì đó kỳ lạ rồi...
+Dialogue: 0,0:13:15.89,0:13:17.89,Default,,0,0,0,,Hóa ra hắn "hoàn toàn" không có chú lực.
+Dialogue: 0,0:13:18.53,0:13:21.36,Default,,0,0,0,,Đây là thể chất trời phú\Ncủa Thiên Dữ Chú Phược.
+Dialogue: 0,0:13:53.72,0:13:57.32,Default,,0,0,0,,Kẻ biết thuật thức của mình\Nsẽ không tấn không mà không có mục đích.
+Dialogue: 0,0:13:57.97,0:13:59.82,Default,,0,0,0,,Chú cụ đó là quân át chủ bài của mày à?
+Dialogue: 0,0:13:59.82,0:14:01.00,Default,,0,0,0,,Tiếc quá!
+Dialogue: 0,0:14:01.00,0:14:02.57,Default,,0,0,0,,Không đến gần ta được đâu.
+Dialogue: 0,0:14:02.57,0:14:03.55,Default,,0,0,0,,Ơ...
+Dialogue: 0,0:14:17.64,0:14:20.37,Default,,0,0,0,,Do không có chú lực nên mình\Nkhông cảm nhận được khí tức của hắn.
+Dialogue: 0,0:14:20.37,0:14:23.38,Default,,0,0,0,,Dựa vào trực giác... làm gì có chuyện đó.
+Dialogue: 0,0:14:23.38,0:14:26.16,Default,,0,0,0,,Có một con chú linh bám vào người hắn.
+Dialogue: 0,0:14:26.16,0:14:29.42,Default,,0,0,0,,Chỉ cần cảm nhân khí tức của nó là được.
+Dialogue: 0,0:14:30.24,0:14:34.15,Default,,0,0,0,,Nói gì thì nói, sao mà nhanh quá vậy!
+Dialogue: 0,0:14:34.88,0:14:37.01,Default,,0,0,0,,Thuật thức thuận chiều.
+Dialogue: 0,0:14:37.01,0:14:38.79,Default,,0,0,0,,Công suất cực đại.
+Dialogue: 0,0:14:44.69,0:14:45.96,Default,,0,0,0,,Thương.
+Dialogue: 0,0:15:00.25,0:15:02.10,Default,,0,0,0,,Không có chỗ ẩn nấp,
+Dialogue: 0,0:15:02.10,0:15:03.85,Default,,0,0,0,,hắn không thể đánh lén.
+Dialogue: 0,0:15:03.85,0:15:05.85,Default,,0,0,0,,Trốn vào rừng rồi à?
+Dialogue: 0,0:15:08.00,0:15:08.87,Default,,0,0,0,,Đó là...
+Dialogue: 0,0:15:10.29,0:15:11.35,Default,,0,0,0,,đầu ruồi?
+Dialogue: 0,0:15:16.01,0:15:18.53,Default,,0,0,0,,Hắn nuôi chúng bên trong\Ncon chú linh đó ư?
+Dialogue: 0,0:15:18.53,0:15:21.27,Default,,0,0,0,,Lôi đầu ruồi ra làm chướng ngại vật à?
+Dialogue: 0,0:15:21.98,0:15:24.55,Default,,0,0,0,,Thế này thì mình\Nkhông nắm được vị trí của hắn.
+Dialogue: 0,0:15:24.55,0:15:27.02,Default,,0,0,0,,Hắn tạo ra được điểm mù rồi.
+Dialogue: 0,0:15:27.02,0:15:28.58,Default,,0,0,0,,Thi triển "Thương" lần nữa...
+Dialogue: 0,0:15:29.12,0:15:30.58,Default,,0,0,0,,Không, khoan đã...
+Dialogue: 0,0:15:30.58,0:15:32.04,Default,,0,0,0,,Mục tiêu của hắn là...
+Dialogue: 0,0:15:32.04,0:15:33.03,Default,,0,0,0,,Amanai!
+Dialogue: 0,0:15:40.17,0:15:42.60,Default,,0,0,0,,Trực giác của mày đủ nhạy bén\Nđể dò ra tao với hai bàn tay trắng.
+Dialogue: 0,0:15:42.88,0:15:45.55,Default,,0,0,0,,Chưa kể còn có chú lực khác loại\Ndo chú cụ này tiết ra nữa,
+Dialogue: 0,0:15:45.88,0:15:49.50,Default,,0,0,0,,không đời nào Lục Nhãn như mày lại bỏ qua nó nhỉ.
+Dialogue: 0,0:15:50.11,0:15:52.26,Default,,0,0,0,,Nhưng cuối cùng thì...
+Dialogue: 0,0:15:54.70,0:15:57.55,Default,,0,0,0,,mày đã bắt đầu dựa vào thuật thức để phòng thủ.
+Dialogue: 0,0:16:30.51,0:16:33.57,Default,,0,0,0,,Chú cụ đặc cấp "Thiên Nghịch Mâu".
+Dialogue: 0,0:16:33.57,0:16:38.37,Default,,0,0,0,,Tác dụng của nó là cưỡng chế hủy bỏ\Nthuật thức đang kích hoạt.
+Dialogue: 0,0:16:38.37,0:16:39.82,Default,,0,0,0,,Ta thấy hơi...
+Dialogue: 0,0:16:43.14,0:16:45.48,Default,,0,0,0,,lấy lại cảm giác rồi đấy.
+Dialogue: 0,0:17:23.75,0:17:25.14,Default,,0,0,0,,Tiểu thư Riko.
+Dialogue: 0,0:17:26.60,0:17:28.73,Default,,0,0,0,,Tôi chỉ có thể tiễn cô đến đây thôi.
+Dialogue: 0,0:17:30.55,0:17:32.49,Default,,0,0,0,,Tiểu thư Riko, xin cô...
+Dialogue: 0,0:17:32.49,0:17:34.14,Default,,0,0,0,,Xin cô hãy...
+Dialogue: 0,0:17:37.85,0:17:39.25,Default,,0,0,0,,Kuroi.
+Dialogue: 0,0:17:39.25,0:17:40.63,Default,,0,0,0,,Em yêu chị nhất!
+Dialogue: 0,0:17:40.97,0:17:44.81,Default,,0,0,0,,Trước giờ, và mãi về sau vẫn thế!
+Dialogue: 0,0:17:44.81,0:17:46.39,Default,,0,0,0,,Chị cũng vậy.
+Dialogue: 0,0:17:46.95,0:17:49.30,Default,,0,0,0,,Chị cũng yêu em lắm!
+Dialogue: 0,0:18:11.00,0:18:12.25,Default,,0,0,0,,Nơi này chính là...
+Dialogue: 0,0:18:12.25,0:18:13.20,Default,,0,0,0,,Ờ.
+Dialogue: 0,0:18:13.59,0:18:16.07,Default,,0,0,0,,Đây là nơi dưới sự bảo vệ của ngài Tengen,
+Dialogue: 0,0:18:17.18,0:18:20.01,Default,,0,0,0,,cơ sở mấu chốt của kết giới cả nước.
+Dialogue: 0,0:18:20.01,0:18:23.56,Default,,0,0,0,,Cung điện Kousei.
+Dialogue: 0,0:18:23.56,0:18:25.56,Default,,0,0,0,,Sau khi bước xuống những bậc thang đó,
+Dialogue: 0,0:18:25.56,0:18:29.59,Default,,0,0,0,,em phải đi qua cánh cổng kia\Nđể đến được gốc cây đại thụ.
+Dialogue: 0,0:18:29.95,0:18:32.84,Default,,0,0,0,,Nơi đó là bên trong của một kết giới đặc biệt,
+Dialogue: 0,0:18:32.84,0:18:35.08,Default,,0,0,0,,khác với kết giới đang bao bọc xung quanh trường,
+Dialogue: 0,0:18:35.51,0:18:38.98,Default,,0,0,0,,mà chỉ những người được mời mới có thể vào.
+Dialogue: 0,0:18:38.98,0:18:42.71,Default,,0,0,0,,Ngài Tengen sẽ bảo vệ em đến khi\Nđồng hóa xong.
+Dialogue: 0,0:18:44.88,0:18:46.46,Default,,0,0,0,,Làm như thế...
+Dialogue: 0,0:18:46.46,0:18:50.31,Default,,0,0,0,,hoặc là quay lại lối cũ\Nrồi cùng về nhà với chị Kuroi.
+Dialogue: 0,0:18:53.75,0:18:54.73,Default,,0,0,0,,Hể?
+Dialogue: 0,0:18:54.73,0:18:58.20,Default,,0,0,0,,Lúc nghe thầy chủ nhiệm giao nhiệm vụ này,
+Dialogue: 0,0:18:58.20,0:19:01.92,Default,,0,0,0,,thầy ấy đã gọi "đồng hóa" là "loại bỏ".
+Dialogue: 0,0:19:01.92,0:19:06.31,Default,,0,0,0,,Điều đó chứng tỏ chính thầy\Ncũng cảm thấy tội lỗi về nhiệm vụ này.
+Dialogue: 0,0:19:06.31,0:19:08.89,Default,,0,0,0,,Thầy của bọn anh là một gã vai u thịt bắp,
+Dialogue: 0,0:19:08.89,0:19:11.11,Default,,0,0,0,,nhưng cũng hay thích vòng vo lắm.
+Dialogue: 0,0:19:15.08,0:19:16.54,Default,,0,0,0,,Trước khi gặp em,
+Dialogue: 0,0:19:16.54,0:19:19.05,Default,,0,0,0,,anh và Satoru đã bàn bạc xong hết rồi.
+Dialogue: 0,0:19:21.20,0:19:24.61,Default,,0,0,0,,Nếu nhãi ranh Tinh Tương Thể\Ntừ chối đồng hóa thì sao á?
+Dialogue: 0,0:19:24.61,0:19:26.47,Default,,0,0,0,,Nếu đã thế...
+Dialogue: 0,0:19:26.47,0:19:28.08,Default,,0,0,0,,thì dẹp vụ đồng hóa luôn!
+Dialogue: 0,0:19:29.70,0:19:30.93,Default,,0,0,0,,Thế có ổn không?
+Dialogue: 0,0:19:30.93,0:19:31.59,Default,,0,0,0,,Hả!?
+Dialogue: 0,0:19:31.97,0:19:35.59,Default,,0,0,0,,Như thế là kiếm chuyện đấm nhau\Nvới ngài Tengen đó.
+Dialogue: 0,0:19:36.64,0:19:39.10,Default,,0,0,0,,Hừ, bộ rén hả?
+Dialogue: 0,0:19:39.46,0:19:40.97,Default,,0,0,0,,Khỏi lo đi.
+Dialogue: 0,0:19:40.97,0:19:42.85,Default,,0,0,0,,Kiểu gì rồi cũng có cách thôi.
+Dialogue: 0,0:19:43.14,0:19:46.07,Default,,0,0,0,,Bọn anh là mạnh nhất đấy.
+Dialogue: 0,0:19:46.07,0:19:48.85,Default,,0,0,0,,Dù Riko có chọn lựa thế nào,
+Dialogue: 0,0:19:48.85,0:19:52.21,Default,,0,0,0,,thì bọn anh vẫn sẽ đảm bảo tương lai cho em.
+Dialogue: 0,0:19:55.61,0:19:57.18,Default,,0,0,0,,Tôi...
+Dialogue: 0,0:19:57.65,0:20:00.48,Default,,0,0,0,,Từ khi sinh ra đã bị gọi là đặc biệt,
+Dialogue: 0,0:20:00.48,0:20:03.25,Default,,0,0,0,,là khác với người ta.
+Dialogue: 0,0:20:04.63,0:20:07.44,Default,,0,0,0,,Với tôi thì cái "đặc biệt" này\Nlại rất bình thường.
+Dialogue: 0,0:20:08.00,0:20:13.17,Default,,0,0,0,,Tôi né tránh nguy hiểm hết sức có thể\Nđể sống tới ngày hôm nay.
+Dialogue: 0,0:20:13.17,0:20:17.42,Default,,0,0,0,,Tôi chẳng nhớ gì về lúc bố mẹ mình qua đời.
+Dialogue: 0,0:20:17.89,0:20:20.86,Default,,0,0,0,,Cũng không còn cảm thấy\Nđau khổ hay cô đơn gì nữa..
+Dialogue: 0,0:20:21.92,0:20:23.50,Default,,0,0,0,,Thế nên tôi luôn cho rằng
+Dialogue: 0,0:20:23.50,0:20:26.88,Default,,0,0,0,,chia tay mọi người để đồng hóa\Ncũng chẳng phải việc lớn lao gì.
+Dialogue: 0,0:20:30.23,0:20:32.25,Default,,0,0,0,,Dù có buồn khổ thế nào,
+Dialogue: 0,0:20:32.74,0:20:36.55,Default,,0,0,0,,thì rồi sẽ đến một ngày đau thương hay\Ncô độc cũng dần dà phai nhạt thôi.
+Dialogue: 0,0:20:38.24,0:20:41.13,Default,,0,0,0,,Thế nhưng...
+Dialogue: 0,0:20:41.61,0:20:43.65,Default,,0,0,0,,Đúng là tôi...
+Dialogue: 0,0:20:43.65,0:20:46.48,Default,,0,0,0,,vẫn muốn ở bên mọi người lâu hơn.
+Dialogue: 0,0:20:47.07,0:20:48.34,Default,,0,0,0,,Muốn cùng mọi người...
+Dialogue: 0,0:20:48.76,0:20:51.15,Default,,0,0,0,,đi tới nhiều nơi hơn...
+Dialogue: 0,0:20:51.15,0:20:53.20,Default,,0,0,0,,ngắm nhìn nhiều thứ hơn...
+Dialogue: 0,0:20:54.43,0:20:56.55,Default,,0,0,0,,Nhiều hơn nữa...
+Dialogue: 0,0:20:56.55,0:21:00.05,Default,,0,0,0,,Về thôi nào, Riko.
+Dialogue: 0,0:21:23.26,0:21:25.14,Default,,0,0,0,,Riko?
+Dialogue: 0,0:21:26.31,0:21:28.48,Default,,0,0,0,,Rồi xong, mọi người vất vả rồi.
+Dialogue: 0,0:21:30.25,0:21:32.79,Default,,0,0,0,,Giải tán đi thôi...
+Dialogue: 0,0:21:36.88,0:21:39.92,Default,,0,0,0,,Tại sao ngươi lại ở đây?
+Dialogue: 0,0:21:39.92,0:21:41.08,Default,,0,0,0,,Hả?
+Dialogue: 0,0:21:41.08,0:21:43.08,Default,,0,0,0,,Còn sao nữa?
+Dialogue: 0,0:21:43.08,0:21:45.60,Default,,0,0,0,,À, ý ngươi là thế hả?
+Dialogue: 0,0:21:47.92,0:21:51.11,Default,,0,0,0,,Vì Gojo Satoru đã chết dưới tay ta rồi.
+Dialogue: 0,0:22:04.95,0:22:06.30,Default,,0,0,0,,Vậy sao?
+Dialogue: 0,0:22:06.84,0:22:08.59,Default,,0,0,0,,Vậy thì chết đi.
+Dialogue: 0,0:23:41.60,0:23:44.84,Default,,0,0,0,,Dù người ta hay nói không bao giờ\Nlà quá muộn để làm điều gì đó,
+Dialogue: 0,0:23:44.84,0:23:49.50,Default,,0,0,0,,nhưng vấn đề thường không nằm ở lúc bắt đầu\Nmà là lúc dừng lại kìa.
+Dialogue: 0,0:23:49.50,0:23:51.40,Default,,0,0,0,,(Tập sau Hoài Ngọc - 4 -)
+Dialogue: 0,0:23:51.40,0:23:52.58,Default,,0,0,0,,Nhớ đón xem nhé.
+Dialogue: 0,0:23:52.58,0:23:56.72,Default,,0,0,0,,Mà nói thế không hay lắm nhỉ.
