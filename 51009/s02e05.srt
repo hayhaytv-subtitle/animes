@@ -1,0 +1,2706 @@
+﻿1
+00:00:09,190 --> 00:00:14,070
+(Chú Thuật Hồi Chiến)
+(Hoài Ngọc / Ngọc Chiết)
+
+2
+00:01:29,980 --> 00:01:32,000
+(Một năm sau, tháng 8 năm 2007)
+
+3
+00:01:33,000 --> 00:01:34,980
+Chuẩn bị này.
+
+4
+00:01:39,680 --> 00:01:41,460
+Ừ, coi bộ được đó.
+
+5
+00:01:41,460 --> 00:01:41,470
+Ừ, coi bộ được đó.
+Ặc, mới rồi là gì đó?
+
+6
+00:01:41,470 --> 00:01:44,400
+Ặc, mới rồi là gì đó?
+
+7
+00:01:44,400 --> 00:01:44,400
+Ặc, mới rồi là gì đó?
+Tự động lựa chọn đối tượng thuật thức à?
+
+8
+00:01:44,400 --> 00:01:46,930
+Tự động lựa chọn đối tượng thuật thức à?
+
+9
+00:01:46,930 --> 00:01:46,930
+Tự động lựa chọn đối tượng thuật thức à?
+Phải.
+
+10
+00:01:46,930 --> 00:01:47,980
+Phải.
+
+11
+00:01:47,980 --> 00:01:47,990
+Phải.
+Nói chính xác thì đối tượng của thuật thức là tôi.
+
+12
+00:01:47,990 --> 00:01:51,040
+Nói chính xác thì đối tượng của thuật thức là tôi.
+
+13
+00:01:51,500 --> 00:01:54,680
+Nhưng trước nay thủ công thì giờ là tự động.
+
+14
+00:01:54,680 --> 00:01:54,690
+Nhưng trước nay thủ công thì giờ là tự động.
+Không chỉ dựa trên sức mạnh của chú lực,
+
+15
+00:01:54,690 --> 00:01:56,430
+Không chỉ dựa trên sức mạnh của chú lực,
+
+16
+00:01:56,430 --> 00:01:56,430
+Không chỉ dựa trên sức mạnh của chú lực,
+nó còn có thể phân loại mức độ nguy hiểm dựa trên
+khối lượng, tốc độ và hình dạng của vật thể.
+
+17
+00:01:56,430 --> 00:02:01,310
+nó còn có thể phân loại mức độ nguy hiểm dựa trên
+khối lượng, tốc độ và hình dạng của vật thể.
+
+18
+00:02:01,310 --> 00:02:01,320
+nó còn có thể phân loại mức độ nguy hiểm dựa trên
+khối lượng, tốc độ và hình dạng của vật thể.
+Phải là phân loại được cả lượng độc tố thì tốt,
+
+19
+00:02:01,320 --> 00:02:04,540
+Phải là phân loại được cả lượng độc tố thì tốt,
+
+20
+00:02:04,540 --> 00:02:04,550
+Phải là phân loại được cả lượng độc tố thì tốt,
+cơ mà cái đó vẫn khó quá.
+
+21
+00:02:04,550 --> 00:02:06,480
+cơ mà cái đó vẫn khó quá.
+
+22
+00:02:06,480 --> 00:02:06,490
+cơ mà cái đó vẫn khó quá.
+Với cái này tôi có thể gần như luôn triển khai
+chú thuật Vô hạ hạn với lượng tài nguyên tối thiểu.
+
+23
+00:02:06,490 --> 00:02:11,620
+Với cái này tôi có thể gần như luôn triển khai
+chú thuật Vô hạ hạn với lượng tài nguyên tối thiểu.
+
+24
+00:02:11,620 --> 00:02:11,620
+Với cái này tôi có thể gần như luôn triển khai
+chú thuật Vô hạ hạn với lượng tài nguyên tối thiểu.
+Lúc nào cũng bật có mà cháy khét não cho coi.
+
+25
+00:02:11,620 --> 00:02:14,580
+Lúc nào cũng bật có mà cháy khét não cho coi.
+
+26
+00:02:14,580 --> 00:02:14,580
+Lúc nào cũng bật có mà cháy khét não cho coi.
+Tôi còn luôn bật thuật thức đảo chiều
+trong giới hạn tự bổ sung nữa.
+
+27
+00:02:14,580 --> 00:02:18,740
+Tôi còn luôn bật thuật thức đảo chiều
+trong giới hạn tự bổ sung nữa.
+
+28
+00:02:18,740 --> 00:02:18,740
+Tôi còn luôn bật thuật thức đảo chiều
+trong giới hạn tự bổ sung nữa.
+Lúc nào não cũng mới toanh sợ gì.
+
+29
+00:02:18,740 --> 00:02:21,200
+Lúc nào não cũng mới toanh sợ gì.
+
+30
+00:02:22,100 --> 00:02:24,940
+Thủ ấn dùng trước kia
+giờ cũng rút gọn ngon lành rồi.
+
+31
+00:02:24,940 --> 00:02:24,950
+Thủ ấn dùng trước kia
+giờ cũng rút gọn ngon lành rồi.
+"Hách" và "Thương",
+
+32
+00:02:24,950 --> 00:02:27,060
+"Hách" và "Thương",
+
+33
+00:02:27,060 --> 00:02:27,070
+"Hách" và "Thương",
+phát động hai chiêu này nhiều lần
+cùng một lúc cũng khỏe re luôn.
+
+34
+00:02:27,070 --> 00:02:30,000
+phát động hai chiêu này nhiều lần
+cùng một lúc cũng khỏe re luôn.
+
+35
+00:02:30,000 --> 00:02:30,010
+phát động hai chiêu này nhiều lần
+cùng một lúc cũng khỏe re luôn.
+Vấn đề còn lại là lĩnh vực
+và dịch chuyển khoảng cách xa nhỉ.
+
+36
+00:02:30,010 --> 00:02:34,160
+Vấn đề còn lại là lĩnh vực
+và dịch chuyển khoảng cách xa nhỉ.
+
+37
+00:02:34,740 --> 00:02:39,680
+Nếu vạch ra trước một lộ trình không chướng ngại
+từ trường chuyên môn luôn thì khả thi đó.
+
+38
+00:02:40,190 --> 00:02:41,150
+Shoko,
+
+39
+00:02:41,150 --> 00:02:41,160
+Shoko,
+cho mượn chuột thí nghiệm đi.
+
+40
+00:02:41,160 --> 00:02:42,960
+cho mượn chuột thí nghiệm đi.
+
+41
+00:02:42,960 --> 00:02:42,970
+cho mượn chuột thí nghiệm đi.
+Hở...
+
+42
+00:02:42,970 --> 00:02:44,280
+Hở...
+
+43
+00:02:44,280 --> 00:02:44,290
+Hở...
+Satoru đã trở thành người mạnh nhất.
+
+44
+00:02:44,290 --> 00:02:46,620
+Satoru đã trở thành người mạnh nhất.
+
+45
+00:02:46,620 --> 00:02:46,620
+Satoru đã trở thành người mạnh nhất.
+Suguru?
+
+46
+00:02:46,620 --> 00:02:47,810
+Suguru?
+
+47
+00:02:47,810 --> 00:02:47,810
+Suguru?
+Bộ cậu gầy đi hả?
+
+48
+00:02:47,810 --> 00:02:49,250
+Bộ cậu gầy đi hả?
+
+49
+00:02:49,250 --> 00:02:49,250
+Bộ cậu gầy đi hả?
+Có sao không đấy?
+
+50
+00:02:49,250 --> 00:02:50,630
+Có sao không đấy?
+
+51
+00:02:50,980 --> 00:02:53,680
+Mọi nhiệm vụ cậu ta đều
+một mình hoàn thành hết.
+
+52
+00:02:53,680 --> 00:02:53,680
+Mọi nhiệm vụ cậu ta đều
+một mình hoàn thành hết.
+Shoko thì vốn không thường xuất đầu lộ diện
+thực hiện các nhiệm vụ nguy hiểm.
+
+53
+00:02:53,680 --> 00:02:57,280
+Shoko thì vốn không thường xuất đầu lộ diện
+thực hiện các nhiệm vụ nguy hiểm.
+
+54
+00:02:57,810 --> 00:03:01,530
+Như một lẽ dĩ nhiên, mình ngày càng
+phải hoạt động đơn độc nhiều hơn.
+
+55
+00:03:01,530 --> 00:03:03,530
+Nắng nóng uể oải ấy mà.
+
+56
+00:03:03,530 --> 00:03:05,530
+Chẳng sao hết á.
+
+57
+00:03:05,530 --> 00:03:07,290
+Chắc tại ăn somen nhiều quá chứ gì?
+
+58
+00:03:08,630 --> 00:03:12,560
+Mùa hè năm ấy đúng là cực kỳ bận rộn.
+
+59
+00:03:12,560 --> 00:03:15,560
+(Tập 29 - Ngọc Chiết)
+
+60
+00:03:16,310 --> 00:03:19,840
+Hẳn là do ảnh hưởng của các thiên tai
+liên tiếp xảy ra vào năm trước đó,
+
+61
+00:03:20,640 --> 00:03:22,920
+mà chú linh ồ ạt tràn ra như giòi bọ.
+
+62
+00:03:24,640 --> 00:03:26,680
+Trừ tà, rồi hấp thụ.
+
+63
+00:03:26,680 --> 00:03:28,680
+Cứ lặp đi lặp lại như thế.
+
+64
+00:03:28,680 --> 00:03:30,530
+Trừ tà, rồi hấp thụ.
+
+65
+00:03:31,490 --> 00:03:34,810
+Đâu ai biết được chú linh có mùi vị thế nào.
+
+66
+00:03:34,810 --> 00:03:34,810
+Đâu ai biết được chú linh có mùi vị thế nào.
+Nó giống như nuốt một miếng giẻ
+vừa dùng để lau bãi nôn vậy.
+
+67
+00:03:34,810 --> 00:03:38,280
+Nó giống như nuốt một miếng giẻ
+vừa dùng để lau bãi nôn vậy.
+
+68
+00:03:40,960 --> 00:03:42,420
+Vì lợi ích của ai chứ?
+
+69
+00:03:46,540 --> 00:03:48,400
+Trừ tà, rồi hấp thụ.
+
+70
+00:03:49,500 --> 00:03:52,840
+Từ ngày hôm đó,
+mình đã luôn tự nhủ với bản thân.
+
+71
+00:03:52,840 --> 00:03:52,840
+Từ ngày hôm đó,
+mình đã luôn tự nhủ với bản thân.
+Thứ hiển hiện trước mắt mình
+chẳng có gì là lạ lùng cả.
+
+72
+00:03:52,840 --> 00:03:55,460
+Thứ hiển hiện trước mắt mình
+chẳng có gì là lạ lùng cả.
+
+73
+00:03:55,460 --> 00:03:55,460
+Thứ hiển hiện trước mắt mình
+chẳng có gì là lạ lùng cả.
+Chỉ là những thứ xấu xí thường thấy thôi.
+
+74
+00:03:55,460 --> 00:03:57,630
+Chỉ là những thứ xấu xí thường thấy thôi.
+
+75
+00:03:57,630 --> 00:03:57,640
+Chỉ là những thứ xấu xí thường thấy thôi.
+Bất chấp đã biết điều đó,
+
+76
+00:03:57,640 --> 00:03:59,430
+Bất chấp đã biết điều đó,
+
+77
+00:03:59,430 --> 00:04:03,840
+mình vẫn phải lựa chọn
+bảo vệ con người với tư cách thuật sư.
+
+78
+00:04:13,360 --> 00:04:14,940
+Đừng lung lay.
+
+79
+00:04:14,940 --> 00:04:14,950
+Đừng lung lay.
+Phải hoàn thành trách nhiệm của một thuật sư.
+
+80
+00:04:14,950 --> 00:04:17,370
+Phải hoàn thành trách nhiệm của một thuật sư.
+
+81
+00:04:36,950 --> 00:04:38,380
+Bọn khỉ khốn kiếp...
+
+82
+00:04:40,940 --> 00:04:41,810
+Á.
+
+83
+00:04:41,810 --> 00:04:41,810
+Á.
+Anh Geto!
+
+84
+00:04:41,810 --> 00:04:43,400
+Anh Geto!
+
+85
+00:04:44,500 --> 00:04:45,760
+Haibara?
+
+86
+00:04:46,710 --> 00:04:48,690
+Anh vất vả rồi ạ!
+
+87
+00:04:48,690 --> 00:04:48,700
+Anh vất vả rồi ạ!
+Uống gì không anh bao?
+
+88
+00:04:48,700 --> 00:04:50,010
+Uống gì không anh bao?
+
+89
+00:04:50,350 --> 00:04:52,620
+Ể? Làm thế coi sao được anh.
+
+90
+00:04:52,620 --> 00:04:52,630
+Ể? Làm thế coi sao được anh.
+Nhưng cho em cola.
+
+91
+00:04:52,630 --> 00:04:53,600
+Nhưng cho em cola.
+
+92
+00:04:56,650 --> 00:04:59,980
+Nhiệm vụ ngày mai em phải đi hơi xa đó.
+
+93
+00:04:59,980 --> 00:04:59,980
+Nhiệm vụ ngày mai em phải đi hơi xa đó.
+Thế à, anh chờ quà đấy nhé.
+
+94
+00:04:59,980 --> 00:05:02,370
+Thế à, anh chờ quà đấy nhé.
+
+95
+00:05:02,370 --> 00:05:02,370
+Thế à, anh chờ quà đấy nhé.
+Rõ ạ!
+
+96
+00:05:02,370 --> 00:05:03,480
+Rõ ạ!
+
+97
+00:05:03,480 --> 00:05:03,480
+Rõ ạ!
+Anh thích món ngọt hay món mặn ạ?
+
+98
+00:05:03,480 --> 00:05:07,320
+Anh thích món ngọt hay món mặn ạ?
+
+99
+00:05:07,320 --> 00:05:07,330
+Anh thích món ngọt hay món mặn ạ?
+Satoru cũng ăn cho coi, nên chắc món ngọt đi.
+
+100
+00:05:07,330 --> 00:05:11,180
+Satoru cũng ăn cho coi, nên chắc món ngọt đi.
+
+101
+00:05:11,580 --> 00:05:13,230
+Rõ ạ!
+
+102
+00:05:16,780 --> 00:05:18,370
+Haibara,
+
+103
+00:05:18,370 --> 00:05:18,370
+Haibara,
+cậu thấy mình theo đuổi
+con đường thuật sư này được không?
+
+104
+00:05:18,370 --> 00:05:20,580
+cậu thấy mình theo đuổi
+con đường thuật sư này được không?
+
+105
+00:05:20,580 --> 00:05:22,570
+Có gì khó khăn không?
+
+106
+00:05:23,380 --> 00:05:25,700
+Để xem...
+
+107
+00:05:25,700 --> 00:05:25,710
+Để xem...
+Tính em vốn không nghĩ sâu xa mọi chuyện lắm.
+
+108
+00:05:25,710 --> 00:05:29,520
+Tính em vốn không nghĩ sâu xa mọi chuyện lắm.
+
+109
+00:05:29,940 --> 00:05:34,140
+Chỉ cần cố gắng hết sức làm những gì có thể
+là em thấy thoải mái lắm rồi.
+
+110
+00:05:36,150 --> 00:05:37,350
+Thế à...
+
+111
+00:05:38,160 --> 00:05:40,160
+Phải rồi nhỉ.
+
+112
+00:05:43,750 --> 00:05:45,450
+Cậu là Geto à?
+
+113
+00:05:46,470 --> 00:05:49,570
+Cậu thích mẫu phụ nữ thế nào?
+
+114
+00:05:49,570 --> 00:05:49,580
+Cậu thích mẫu phụ nữ thế nào?
+Hửm?
+
+115
+00:05:49,580 --> 00:05:50,560
+Hửm?
+
+116
+00:05:50,560 --> 00:05:50,570
+Hửm?
+Chị là ai vậy ạ?
+
+117
+00:05:50,570 --> 00:05:52,470
+Chị là ai vậy ạ?
+
+118
+00:05:52,900 --> 00:05:55,220
+Em thích mấy bạn nữ ăn khỏe ạ!
+
+119
+00:05:55,220 --> 00:05:55,220
+Em thích mấy bạn nữ ăn khỏe ạ!
+Ồ...
+
+120
+00:05:55,220 --> 00:05:56,160
+Ồ...
+
+121
+00:05:56,160 --> 00:05:57,670
+Haibara...
+
+122
+00:05:57,670 --> 00:05:59,670
+Anh đừng lo,
+
+123
+00:05:59,670 --> 00:06:01,420
+đây không phải người xấu đâu.
+
+124
+00:06:01,420 --> 00:06:01,420
+đây không phải người xấu đâu.
+Em tin vào mắt nhìn người của mình lắm.
+
+125
+00:06:01,420 --> 00:06:03,680
+Em tin vào mắt nhìn người của mình lắm.
+
+126
+00:06:04,010 --> 00:06:06,520
+Thế mà vẫn đến ngồi cạnh tôi sao?
+
+127
+00:06:06,990 --> 00:06:08,190
+Hửm?
+
+128
+00:06:08,190 --> 00:06:08,200
+Hửm?
+Vâng!
+
+129
+00:06:08,200 --> 00:06:09,430
+Vâng!
+
+130
+00:06:11,190 --> 00:06:13,370
+Cậu trai à, vừa rồi là nói móc đó.
+
+131
+00:06:14,960 --> 00:06:16,070
+Em xin phép ạ!
+
+132
+00:06:17,290 --> 00:06:18,740
+Đàn em à?
+
+133
+00:06:18,740 --> 00:06:20,740
+Thật thà dễ thương ghê nhỉ.
+
+134
+00:06:20,740 --> 00:06:24,160
+Nhưng muốn làm thuật sư thì phải
+có lòng nghi ngờ người khác hơn mới được...
+
+135
+00:06:24,160 --> 00:06:27,820
+Vậy cậu không định trả lời tôi sao, Geto?
+
+136
+00:06:28,400 --> 00:06:31,060
+Chị trả lời tôi trước đã.
+
+137
+00:06:31,060 --> 00:06:31,060
+Chị trả lời tôi trước đã.
+Chị là ai vậy?
+
+138
+00:06:31,060 --> 00:06:32,340
+Chị là ai vậy?
+
+139
+00:06:32,800 --> 00:06:35,500
+Thuật sư đặc cấp, Tsukumo Yuki.
+
+140
+00:06:35,500 --> 00:06:35,510
+Thuật sư đặc cấp, Tsukumo Yuki.
+Nói thế chắc cậu biết rồi phải không?
+
+141
+00:06:35,510 --> 00:06:37,260
+Nói thế chắc cậu biết rồi phải không?
+
+142
+00:06:38,200 --> 00:06:39,500
+Chị là người đó...
+
+143
+00:06:39,500 --> 00:06:39,510
+Chị là người đó...
+Ồ, được đó.
+
+144
+00:06:39,510 --> 00:06:41,410
+Ồ, được đó.
+
+145
+00:06:41,410 --> 00:06:41,410
+Ồ, được đó.
+Người thế nào cơ?
+
+146
+00:06:41,410 --> 00:06:43,240
+Người thế nào cơ?
+
+147
+00:06:43,240 --> 00:06:43,240
+Người thế nào cơ?
+Dù là đặc cấp nhưng chẳng thèm nhận nhiệm vụ,
+
+148
+00:06:43,240 --> 00:06:46,310
+Dù là đặc cấp nhưng chẳng thèm nhận nhiệm vụ,
+
+149
+00:06:46,310 --> 00:06:46,310
+Dù là đặc cấp nhưng chẳng thèm nhận nhiệm vụ,
+một kẻ vô tích sự tối ngày lang thang ở nước ngoài.
+
+150
+00:06:46,310 --> 00:06:49,480
+một kẻ vô tích sự tối ngày lang thang ở nước ngoài.
+
+151
+00:06:49,480 --> 00:06:49,480
+một kẻ vô tích sự tối ngày lang thang ở nước ngoài.
+Ghét mấy cái trường chuyên môn quá đi.
+
+152
+00:06:49,480 --> 00:06:52,600
+Ghét mấy cái trường chuyên môn quá đi.
+
+153
+00:06:52,600 --> 00:06:52,600
+Ghét mấy cái trường chuyên môn quá đi.
+Dỗi nữa chứ...
+
+154
+00:06:52,600 --> 00:06:54,000
+Dỗi nữa chứ...
+
+155
+00:06:54,000 --> 00:06:54,000
+Dỗi nữa chứ...
+Đùa thôi.
+
+156
+00:06:54,000 --> 00:06:55,370
+Đùa thôi.
+
+157
+00:06:55,370 --> 00:06:55,380
+Đùa thôi.
+Nhưng việc phương châm của tôi
+không hợp với trường chuyên môn là sự thật.
+
+158
+00:06:55,380 --> 00:06:59,410
+Nhưng việc phương châm của tôi
+không hợp với trường chuyên môn là sự thật.
+
+159
+00:06:59,410 --> 00:06:59,410
+Nhưng việc phương châm của tôi
+không hợp với trường chuyên môn là sự thật.
+Thứ những người ở đây đang làm
+chỉ là giải pháp tạm thời thôi.
+
+160
+00:06:59,410 --> 00:07:02,830
+Thứ những người ở đây đang làm
+chỉ là giải pháp tạm thời thôi.
+
+161
+00:07:02,830 --> 00:07:02,840
+Thứ những người ở đây đang làm
+chỉ là giải pháp tạm thời thôi.
+Còn tôi muốn giải quyết từ tận gốc rễ kìa.
+
+162
+00:07:02,840 --> 00:07:05,360
+Còn tôi muốn giải quyết từ tận gốc rễ kìa.
+
+163
+00:07:05,750 --> 00:07:07,560
+Giải quyết gốc rễ?
+
+164
+00:07:07,560 --> 00:07:07,570
+Giải quyết gốc rễ?
+Tức là không phải đi săn chú linh,
+
+165
+00:07:07,570 --> 00:07:09,860
+Tức là không phải đi săn chú linh,
+
+166
+00:07:09,860 --> 00:07:09,860
+Tức là không phải đi săn chú linh,
+mà là tạo dựng một thế giới
+nơi chú linh không thể sinh ra.
+
+167
+00:07:09,860 --> 00:07:13,030
+mà là tạo dựng một thế giới
+nơi chú linh không thể sinh ra.
+
+168
+00:07:16,010 --> 00:07:18,080
+Chúng ta lên lớp một chút nhé.
+
+169
+00:07:18,080 --> 00:07:18,090
+Chúng ta lên lớp một chút nhé.
+Cho tôi biết bản chất của chú linh là gì nào?
+
+170
+00:07:18,090 --> 00:07:20,680
+Cho tôi biết bản chất của chú linh là gì nào?
+
+171
+00:07:20,680 --> 00:07:20,680
+Cho tôi biết bản chất của chú linh là gì nào?
+Chúng là những thứ được hình thành bởi sự tích tụ
+chú lực rò rỉ từ con người giống như trầm tích.
+
+172
+00:07:20,680 --> 00:07:26,800
+Chúng là những thứ được hình thành bởi sự tích tụ
+chú lực rò rỉ từ con người giống như trầm tích.
+
+173
+00:07:26,800 --> 00:07:28,800
+Một câu trả lời hoàn hảo.
+
+174
+00:07:28,800 --> 00:07:33,040
+Vậy nên có hai cách để tạo dựng một thế giới
+chú linh không thể được sinh ra.
+
+175
+00:07:33,040 --> 00:07:33,040
+Vậy nên có hai cách để tạo dựng một thế giới
+chú linh không thể được sinh ra.
+Cách thứ nhất,
+
+176
+00:07:33,040 --> 00:07:34,390
+Cách thứ nhất,
+
+177
+00:07:34,390 --> 00:07:36,990
+Khiến cho toàn bộ nhân loại mất đi chú lực.
+
+178
+00:07:36,990 --> 00:07:36,990
+Khiến cho toàn bộ nhân loại mất đi chú lực.
+Hai, giúp cho toàn bộ nhân loại có thể
+điều khiển được chú lực của mình.
+
+179
+00:07:36,990 --> 00:07:41,070
+Hai, giúp cho toàn bộ nhân loại có thể
+điều khiển được chú lực của mình.
+
+180
+00:07:41,390 --> 00:07:45,190
+Tôi từng cho rằng
+cách thứ nhất là một giải pháp hay.
+
+181
+00:07:45,190 --> 00:07:47,190
+Có cả một trường hợp làm mẫu luôn mà.
+
+182
+00:07:47,190 --> 00:07:48,560
+Trường hợp mẫu?
+
+183
+00:07:48,560 --> 00:07:48,570
+Trường hợp mẫu?
+Cậu cũng biết rõ kẻ đó đấy.
+
+184
+00:07:48,570 --> 00:07:50,820
+Cậu cũng biết rõ kẻ đó đấy.
+
+185
+00:07:50,820 --> 00:07:50,830
+Cậu cũng biết rõ kẻ đó đấy.
+Zenin Toji.
+
+186
+00:07:50,830 --> 00:07:52,410
+Zenin Toji.
+
+187
+00:07:53,370 --> 00:07:58,860
+Tôi từng chứng kiến vài trường hợp chú lực chỉ
+ở mức người thường do Thiên Dữ Chú Phược rồi,
+
+188
+00:07:58,860 --> 00:07:58,860
+Tôi từng chứng kiến vài trường hợp chú lực chỉ
+ở mức người thường do Thiên Dữ Chú Phược rồi,
+nhưng chú lực hoàn toàn bằng không như vậy,
+
+189
+00:07:58,860 --> 00:08:00,930
+nhưng chú lực hoàn toàn bằng không như vậy,
+
+190
+00:08:00,930 --> 00:08:00,940
+nhưng chú lực hoàn toàn bằng không như vậy,
+thì tìm cả thế giới này cũng chỉ có mình hắn thôi.
+
+191
+00:08:00,940 --> 00:08:03,550
+thì tìm cả thế giới này cũng chỉ có mình hắn thôi.
+
+192
+00:08:04,510 --> 00:08:08,440
+Điểm thú vị của hắn chưa dừng lại ở đó.
+
+193
+00:08:08,440 --> 00:08:08,450
+Điểm thú vị của hắn chưa dừng lại ở đó.
+Bất chấp việc chú lực của mình bằng không,
+
+194
+00:08:08,450 --> 00:08:11,750
+Bất chấp việc chú lực của mình bằng không,
+
+195
+00:08:11,750 --> 00:08:11,750
+Bất chấp việc chú lực của mình bằng không,
+Zenin Toji vẫn có thể nhận ra chú linh
+bằng các giác quan.
+
+196
+00:08:11,750 --> 00:08:14,220
+Zenin Toji vẫn có thể nhận ra chú linh
+bằng các giác quan.
+
+197
+00:08:14,220 --> 00:08:14,220
+Zenin Toji vẫn có thể nhận ra chú linh
+bằng các giác quan.
+Chính vì đã vứt bỏ hoàn toàn chú lực,
+nên cơ thể hắn mới khác thường như vậy.
+
+198
+00:08:14,220 --> 00:08:18,310
+Chính vì đã vứt bỏ hoàn toàn chú lực,
+nên cơ thể hắn mới khác thường như vậy.
+
+199
+00:08:18,310 --> 00:08:18,320
+Chính vì đã vứt bỏ hoàn toàn chú lực,
+nên cơ thể hắn mới khác thường như vậy.
+Ngược lại còn có được sức đề kháng
+với lời nguyền nữa cơ.
+
+200
+00:08:18,320 --> 00:08:21,190
+Ngược lại còn có được sức đề kháng
+với lời nguyền nữa cơ.
+
+201
+00:08:21,600 --> 00:08:23,600
+Đúng là một siêu nhân.
+
+202
+00:08:23,600 --> 00:08:23,600
+Đúng là một siêu nhân.
+Chẳng có gì xấu hổ khi thua trận trước hắn cả.
+
+203
+00:08:23,600 --> 00:08:25,810
+Chẳng có gì xấu hổ khi thua trận trước hắn cả.
+
+204
+00:08:26,860 --> 00:08:30,830
+Tôi vốn định dùng hắn để nghiên cứu,
+nhưng đã bị từ chối rồi.
+
+205
+00:08:30,830 --> 00:08:30,840
+Tôi vốn định dùng hắn để nghiên cứu,
+nhưng đã bị từ chối rồi.
+Hắn chết đi là một mất mát lớn.
+
+206
+00:08:30,840 --> 00:08:32,710
+Hắn chết đi là một mất mát lớn.
+
+207
+00:08:33,340 --> 00:08:35,770
+Mẫu vật có Thiên Dữ Chú Phược cũng rất hiếm,
+
+208
+00:08:35,770 --> 00:08:35,780
+Mẫu vật có Thiên Dữ Chú Phược cũng rất hiếm,
+thế nên mục tiêu chính
+của tôi bây giờ là cách thứ hai.
+
+209
+00:08:35,780 --> 00:08:38,450
+thế nên mục tiêu chính
+của tôi bây giờ là cách thứ hai.
+
+210
+00:08:38,450 --> 00:08:38,450
+thế nên mục tiêu chính
+của tôi bây giờ là cách thứ hai.
+Giúp cho toàn bộ nhân loại
+có thể điều khiển được chú lực.
+
+211
+00:08:38,450 --> 00:08:42,320
+Giúp cho toàn bộ nhân loại
+có thể điều khiển được chú lực.
+
+212
+00:08:43,000 --> 00:08:47,090
+Cậu có biết chú linh sẽ không thể
+sinh ra từ một thuật sư không?
+
+213
+00:08:47,910 --> 00:08:52,620
+Đương nhiên, ngoại trừ trường hợp bản thân
+thuật sư bị dính lời nguyền sau khi chết nhé.
+
+214
+00:08:53,360 --> 00:08:58,240
+Chú lực rò rỉ từ thuật sư ít hơn rất nhiều
+so với người bình thường.
+
+215
+00:08:58,240 --> 00:09:02,580
+Một phần lý do là nhờ thể tích chứa khác nhau
+và việc họ tiêu hao chú lực khi sử dụng thuật thức,
+
+216
+00:09:02,870 --> 00:09:05,220
+nhưng lý do quan trọng nhất vẫn là "lưu động".
+
+217
+00:09:05,220 --> 00:09:05,220
+nhưng lý do quan trọng nhất vẫn là "lưu động".
+Chú lực của thuật sư
+sẽ tuần hoàn liên tục trong cơ thể.
+
+218
+00:09:05,220 --> 00:09:09,510
+Chú lực của thuật sư
+sẽ tuần hoàn liên tục trong cơ thể.
+
+219
+00:09:09,510 --> 00:09:11,510
+Nói một cách đại khái,
+
+220
+00:09:11,510 --> 00:09:14,070
+thì nếu toàn bộ nhân loại đều trở thành thuật sư
+
+221
+00:09:14,070 --> 00:09:14,070
+thì nếu toàn bộ nhân loại đều trở thành thuật sư
+thì sẽ không có lời nguyền nào được sinh ra.
+
+222
+00:09:14,070 --> 00:09:15,790
+thì sẽ không có lời nguyền nào được sinh ra.
+
+223
+00:09:16,970 --> 00:09:22,160
+Vậy không phải giết hết những kẻ
+không phải thuật sư là được sao?
+
+224
+00:09:23,400 --> 00:09:24,920
+Geto à.
+
+225
+00:09:25,910 --> 00:09:27,620
+Cách đó hay đấy.
+
+226
+00:09:27,620 --> 00:09:27,630
+Cách đó hay đấy.
+Ể?
+
+227
+00:09:27,630 --> 00:09:28,400
+Ể?
+
+228
+00:09:28,400 --> 00:09:30,390
+Không...
+
+229
+00:09:30,390 --> 00:09:34,300
+Hay có thể nói, đó là cách
+đơn giản nhất không chừng.
+
+230
+00:09:34,880 --> 00:09:36,990
+Nếu tỉa bớt người bình thường thì dần dần
+
+231
+00:09:36,990 --> 00:09:36,990
+Nếu tỉa bớt người bình thường thì dần dần
+họ phải thích nghi trở thành thuật sư
+như một chiến lược sinh tồn.
+
+232
+00:09:36,990 --> 00:09:40,550
+họ phải thích nghi trở thành thuật sư
+như một chiến lược sinh tồn.
+
+233
+00:09:40,550 --> 00:09:40,560
+họ phải thích nghi trở thành thuật sư
+như một chiến lược sinh tồn.
+Hay nói cách khác là thúc đẩy sự tiến hóa.
+
+234
+00:09:40,560 --> 00:09:42,870
+Hay nói cách khác là thúc đẩy sự tiến hóa.
+
+235
+00:09:42,870 --> 00:09:42,870
+Hay nói cách khác là thúc đẩy sự tiến hóa.
+Có thể nói đây là cách dùng nỗi sợ và sự nguy hiểm
+
+236
+00:09:42,870 --> 00:09:45,610
+Có thể nói đây là cách dùng nỗi sợ và sự nguy hiểm
+
+237
+00:09:45,610 --> 00:09:45,610
+Có thể nói đây là cách dùng nỗi sợ và sự nguy hiểm
+để giúp những chú chim tung cánh bay nhỉ.
+
+238
+00:09:45,610 --> 00:09:48,400
+để giúp những chú chim tung cánh bay nhỉ.
+
+239
+00:09:48,400 --> 00:09:48,410
+để giúp những chú chim tung cánh bay nhỉ.
+Nhưng tiếc thay, tôi không điên tới mức đó.
+
+240
+00:09:48,410 --> 00:09:52,470
+Nhưng tiếc thay, tôi không điên tới mức đó.
+
+241
+00:09:52,470 --> 00:09:52,470
+Nhưng tiếc thay, tôi không điên tới mức đó.
+Cậu ghét những người
+không phải thuật sư sao, Geto?
+
+242
+00:09:52,470 --> 00:09:55,580
+Cậu ghét những người
+không phải thuật sư sao, Geto?
+
+243
+00:09:59,590 --> 00:10:01,370
+Tôi cũng không biết nữa.
+
+244
+00:10:01,370 --> 00:10:01,380
+Tôi cũng không biết nữa.
+Tôi luôn nghĩ rằng chú thuật tồn tại
+là để bảo vệ những người bình thường.
+
+245
+00:10:01,380 --> 00:10:05,340
+Tôi luôn nghĩ rằng chú thuật tồn tại
+là để bảo vệ những người bình thường.
+
+246
+00:10:05,340 --> 00:10:05,340
+Tôi luôn nghĩ rằng chú thuật tồn tại
+là để bảo vệ những người bình thường.
+Nhưng mà gần đây trong lòng tôi,
+
+247
+00:10:05,340 --> 00:10:08,070
+Nhưng mà gần đây trong lòng tôi,
+
+248
+00:10:08,070 --> 00:10:08,070
+Nhưng mà gần đây trong lòng tôi,
+những thứ như giá trị của họ đang bị lung lay.
+
+249
+00:10:08,070 --> 00:10:11,060
+những thứ như giá trị của họ đang bị lung lay.
+
+250
+00:10:11,060 --> 00:10:13,050
+Sự cao thượng của kẻ yếu.
+
+251
+00:10:13,050 --> 00:10:14,970
+Sự đê hèn của kẻ yếu.
+
+252
+00:10:14,970 --> 00:10:14,970
+Sự đê hèn của kẻ yếu.
+Tôi dần trở nên không thể phân biệt
+và tiếp nhận được chúng nữa.
+
+253
+00:10:14,970 --> 00:10:18,940
+Tôi dần trở nên không thể phân biệt
+và tiếp nhận được chúng nữa.
+
+254
+00:10:18,940 --> 00:10:18,940
+Tôi dần trở nên không thể phân biệt
+và tiếp nhận được chúng nữa.
+Tôi xem thường người không phải thuật sư,
+
+255
+00:10:18,940 --> 00:10:20,800
+Tôi xem thường người không phải thuật sư,
+
+256
+00:10:20,800 --> 00:10:20,810
+Tôi xem thường người không phải thuật sư,
+và chính tôi lại muốn phủ nhận điều đó.
+
+257
+00:10:20,810 --> 00:10:23,100
+và chính tôi lại muốn phủ nhận điều đó.
+
+258
+00:10:23,100 --> 00:10:23,100
+và chính tôi lại muốn phủ nhận điều đó.
+Cái cuộc đua đường trường mang tên thuật sư này,
+
+259
+00:10:23,100 --> 00:10:25,480
+Cái cuộc đua đường trường mang tên thuật sư này,
+
+260
+00:10:25,480 --> 00:10:25,480
+Cái cuộc đua đường trường mang tên thuật sư này,
+đích đến của nó sao mà mờ ảo quá.
+
+261
+00:10:25,480 --> 00:10:27,910
+đích đến của nó sao mà mờ ảo quá.
+
+262
+00:10:28,530 --> 00:10:31,570
+Tôi chẳng biết đâu mới là tiếng lòng của mình nữa.
+
+263
+00:10:31,570 --> 00:10:31,570
+Tôi chẳng biết đâu mới là tiếng lòng của mình nữa.
+Chẳng có gì là tiếng lòng cả.
+
+264
+00:10:31,570 --> 00:10:34,630
+Chẳng có gì là tiếng lòng cả.
+
+265
+00:10:37,470 --> 00:10:39,660
+Cậu chưa đến giai đoạn đó đâu.
+
+266
+00:10:39,970 --> 00:10:42,220
+Việc cậu xem thường người bình thường,
+
+267
+00:10:42,220 --> 00:10:42,220
+Việc cậu xem thường người bình thường,
+và việc cậu muốn phủ nhận điều đó.
+
+268
+00:10:42,220 --> 00:10:44,390
+và việc cậu muốn phủ nhận điều đó.
+
+269
+00:10:44,820 --> 00:10:48,150
+Chúng chỉ là những khả năng do cậu nghĩ ra thôi.
+
+270
+00:10:48,150 --> 00:10:54,170
+Từ giờ chính cậu sẽ phải lựa chọn
+đâu mới là tiếng lòng thật của mình đấy.
+
+271
+00:10:56,850 --> 00:10:58,170
+Chào nhé.
+
+272
+00:10:58,170 --> 00:10:58,180
+Chào nhé.
+Thật tình thì tôi muốn chào hỏi Gojo nữa,
+
+273
+00:10:58,180 --> 00:11:01,170
+Thật tình thì tôi muốn chào hỏi Gojo nữa,
+
+274
+00:11:01,170 --> 00:11:01,180
+Thật tình thì tôi muốn chào hỏi Gojo nữa,
+nhưng xem ra không đúng lúc rồi.
+
+275
+00:11:01,180 --> 00:11:03,510
+nhưng xem ra không đúng lúc rồi.
+
+276
+00:11:03,510 --> 00:11:07,190
+Cùng là đặc cấp với nhau,
+ba người chúng ta hãy thân thiết hơn nhé.
+
+277
+00:11:08,160 --> 00:11:11,270
+Tôi sẽ nhắn lại với Satoru cho.
+
+278
+00:11:11,690 --> 00:11:12,870
+À, đúng rồi.
+
+279
+00:11:12,870 --> 00:11:17,160
+Còn việc cuối cùng nữa,
+cậu không cần bận thân đến Tinh Tương Thể đâu.
+
+280
+00:11:17,160 --> 00:11:17,170
+Còn việc cuối cùng nữa,
+cậu không cần bận thân đến Tinh Tương Thể đâu.
+Chẳng biết lúc đó có một Tinh Tương Thể khác
+
+281
+00:11:17,170 --> 00:11:20,770
+Chẳng biết lúc đó có một Tinh Tương Thể khác
+
+282
+00:11:20,770 --> 00:11:20,780
+Chẳng biết lúc đó có một Tinh Tương Thể khác
+hay Tinh Tương Thể mới đã được sinh ra rồi...
+
+283
+00:11:20,780 --> 00:11:24,870
+hay Tinh Tương Thể mới đã được sinh ra rồi...
+
+284
+00:11:24,870 --> 00:11:24,870
+hay Tinh Tương Thể mới đã được sinh ra rồi...
+Nhưng kiểu gì thì Tengen cũng đang rất ổn định.
+
+285
+00:11:24,870 --> 00:11:29,260
+Nhưng kiểu gì thì Tengen cũng đang rất ổn định.
+
+286
+00:11:32,150 --> 00:11:33,460
+Hẳn rồi.
+
+287
+00:11:33,790 --> 00:11:35,500
+Á,
+
+288
+00:11:35,500 --> 00:11:35,510
+Á,
+quên chưa hỏi gu nữa.
+
+289
+00:11:35,510 --> 00:11:38,090
+quên chưa hỏi gu nữa.
+
+290
+00:11:40,140 --> 00:11:44,850
+Lẽ ra chỉ là nhiệm vụ xử lý
+chú linh cấp hai đơn giản thôi mà...
+
+291
+00:11:49,670 --> 00:11:52,960
+Khốn kiếp!
+
+292
+00:11:55,510 --> 00:11:57,550
+Thần trong tín ngưỡng địa phương...
+
+293
+00:11:59,710 --> 00:12:02,240
+Đó là một thổ địa...
+
+294
+00:12:02,240 --> 00:12:03,950
+Là nhiệm vụ cấp một mới đúng!
+
+295
+00:12:07,000 --> 00:12:10,150
+Trước mắt cứ nghỉ ngơi đi, Nanami.
+
+296
+00:12:10,150 --> 00:12:10,160
+Trước mắt cứ nghỉ ngơi đi, Nanami.
+Nhiệm vụ đã có Satoru lo rồi.
+
+297
+00:12:10,160 --> 00:12:12,220
+Nhiệm vụ đã có Satoru lo rồi.
+
+298
+00:12:14,380 --> 00:12:17,580
+Sao anh ta không làm hết một mình cho rồi đi.
+
+299
+00:12:19,420 --> 00:12:22,230
+Cuộc đua đường dài mang tên thuật sư.
+
+300
+00:12:24,530 --> 00:12:26,600
+Nếu ở đích đến của nó...
+
+301
+00:12:28,330 --> 00:12:32,390
+là núi tử thi của đồng đội thì sao?
+
+302
+00:12:35,530 --> 00:12:40,550
+(Báo cáo điều tra án mạng
+liên quan đến học sinh trường)
+
+303
+00:12:43,360 --> 00:12:44,710
+Chuyện này là sao đây?
+
+304
+00:12:45,120 --> 00:12:46,580
+Còn sao nữa?
+
+305
+00:12:46,580 --> 00:12:46,580
+Còn sao nữa?
+Hai đứa này là nguyên nhân của chuỗi sự kiện đó!
+
+306
+00:12:46,580 --> 00:12:49,450
+Hai đứa này là nguyên nhân của chuỗi sự kiện đó!
+
+307
+00:12:52,090 --> 00:12:53,220
+Không phải đâu.
+
+308
+00:12:55,160 --> 00:12:57,680
+(Đối tượng học sinh bị điều tra:
+Geto Suguru, năm ba chi nhánh Tokyo)
+
+309
+00:12:59,800 --> 00:13:02,380
+Hai đứa này bị điên rồi.
+
+310
+00:13:02,380 --> 00:13:02,390
+Hai đứa này bị điên rồi.
+Chúng nó dùng sức mạnh bí ẩn để tấn công
+dân làng hết người này đến người khác!
+
+311
+00:13:02,390 --> 00:13:05,820
+Chúng nó dùng sức mạnh bí ẩn để tấn công
+dân làng hết người này đến người khác!
+
+312
+00:13:06,220 --> 00:13:09,490
+Tôi đã dọn dẹp nguyên nhân gây ra mấy vụ đó rồi.
+
+313
+00:13:09,490 --> 00:13:09,490
+Tôi đã dọn dẹp nguyên nhân gây ra mấy vụ đó rồi.
+Cháu tôi cũng bị hai đứa này giết đấy!
+
+314
+00:13:09,490 --> 00:13:12,740
+Cháu tôi cũng bị hai đứa này giết đấy!
+
+315
+00:13:12,740 --> 00:13:12,740
+Cháu tôi cũng bị hai đứa này giết đấy!
+Đó là tại-
+
+316
+00:13:12,740 --> 00:13:13,510
+Đó là tại-
+
+317
+00:13:13,510 --> 00:13:13,520
+Đó là tại-
+Câm đi, đồ quái vật!
+
+318
+00:13:13,520 --> 00:13:15,620
+Câm đi, đồ quái vật!
+
+319
+00:13:15,620 --> 00:13:15,630
+Câm đi, đồ quái vật!
+Bố mẹ chúng mày cũng vậy!
+
+320
+00:13:15,630 --> 00:13:18,550
+Bố mẹ chúng mày cũng vậy!
+
+321
+00:13:18,550 --> 00:13:21,120
+- Không sao nữa rồi...
+- Lẽ ra tụi nó phải giết bọn mày lúc mới đẻ rồi kìa!
+
+322
+00:13:23,730 --> 00:13:25,910
+Cái tôi của cậu khi xem thường người bình thường.
+
+323
+00:13:25,910 --> 00:13:27,460
+Và cái tôi của cậu muốn phủ nhận điều đó.
+
+324
+00:13:27,990 --> 00:13:30,150
+Từ giờ chính cậu sẽ phải lựa chọn
+
+325
+00:13:30,720 --> 00:13:32,150
+Nào mọi người.
+
+326
+00:13:32,150 --> 00:13:34,720
+Chúng ta ra ngoài một chút nhé?
+
+327
+00:13:34,720 --> 00:13:38,080
+đâu mới là tiếng lòng thật của mình đấy.
+
+328
+00:13:42,580 --> 00:13:44,550
+Gì vậy!?
+
+329
+00:13:44,550 --> 00:13:45,350
+Tại sao?
+
+330
+00:13:47,570 --> 00:13:49,460
+Không!
+
+331
+00:14:00,860 --> 00:14:02,870
+(Đối tượng xử lý Geto Suguru
+đang trên đường chạy trốn)
+
+332
+00:14:02,870 --> 00:14:02,870
+(Đối tượng xử lý Geto Suguru
+đang trên đường chạy trốn)
+(Xác định là thuật
+điều khiển chú linh của Geto Suguru)
+
+333
+00:14:02,870 --> 00:14:07,570
+(Xác định là thuật
+điều khiển chú linh của Geto Suguru)
+
+334
+00:14:07,570 --> 00:14:07,570
+(Xác định là thuật
+điều khiển chú linh của Geto Suguru)
+(Đối tượng cần tử hình)
+
+335
+00:14:07,570 --> 00:14:10,960
+(Đối tượng cần tử hình)
+
+336
+00:14:16,180 --> 00:14:17,160
+Hả?
+
+337
+00:14:18,000 --> 00:14:20,120
+Đừng bắt tôi phải nói lại.
+
+338
+00:14:20,120 --> 00:14:20,130
+Đừng bắt tôi phải nói lại.
+Suguru đã giết cả một ngôi làng-
+
+339
+00:14:20,130 --> 00:14:22,170
+Suguru đã giết cả một ngôi làng-
+
+340
+00:14:22,170 --> 00:14:22,180
+Suguru đã giết cả một ngôi làng-
+Em nghe rồi.
+
+341
+00:14:22,180 --> 00:14:24,080
+Em nghe rồi.
+
+342
+00:14:24,080 --> 00:14:24,080
+Em nghe rồi.
+Thế nên mới "hả" đó.
+
+343
+00:14:24,080 --> 00:14:26,390
+Thế nên mới "hả" đó.
+
+344
+00:14:27,900 --> 00:14:31,730
+Nhà của Suguru cũng trống trơn.
+
+345
+00:14:31,730 --> 00:14:31,730
+Nhà của Suguru cũng trống trơn.
+Nhưng từ vết máu và dấu tích để lại,
+
+346
+00:14:31,730 --> 00:14:33,580
+Nhưng từ vết máu và dấu tích để lại,
+
+347
+00:14:33,580 --> 00:14:33,580
+Nhưng từ vết máu và dấu tích để lại,
+sợ rằng cậu ta cũng đã ra tay với bố mẹ-
+
+348
+00:14:33,580 --> 00:14:35,230
+sợ rằng cậu ta cũng đã ra tay với bố mẹ-
+
+349
+00:14:35,230 --> 00:14:35,230
+sợ rằng cậu ta cũng đã ra tay với bố mẹ-
+Làm sao có chuyện đó được!
+
+350
+00:14:35,230 --> 00:14:36,630
+Làm sao có chuyện đó được!
+
+351
+00:14:36,630 --> 00:14:36,640
+Làm sao có chuyện đó được!
+Satoru!
+
+352
+00:14:36,640 --> 00:14:38,220
+Satoru!
+
+353
+00:14:38,220 --> 00:14:38,220
+Satoru!
+Tôi cũng... chẳng hiểu
+chuyện gì đang xảy ra nữa đây.
+
+354
+00:14:38,220 --> 00:14:41,500
+Tôi cũng... chẳng hiểu
+chuyện gì đang xảy ra nữa đây.
+
+355
+00:14:50,240 --> 00:14:51,380
+(Ể... học sinh cấp ba à?)
+
+356
+00:14:55,340 --> 00:14:57,350
+Cần lửa không?
+
+357
+00:14:58,920 --> 00:14:59,800
+Chào.
+
+358
+00:15:00,960 --> 00:15:02,290
+Bớ người ta tội phạm.
+
+359
+00:15:02,290 --> 00:15:02,300
+Bớ người ta tội phạm.
+Kiếm tôi làm gì đây?
+
+360
+00:15:02,300 --> 00:15:04,030
+Kiếm tôi làm gì đây?
+
+361
+00:15:04,030 --> 00:15:04,040
+Kiếm tôi làm gì đây?
+Thử vận may chút ấy mà.
+
+362
+00:15:04,040 --> 00:15:06,330
+Thử vận may chút ấy mà.
+
+363
+00:15:06,330 --> 00:15:06,330
+Thử vận may chút ấy mà.
+Hừm...
+
+364
+00:15:06,330 --> 00:15:07,840
+Hừm...
+
+365
+00:15:07,840 --> 00:15:07,840
+Hừm...
+Hỏi cho chắc thôi,
+
+366
+00:15:07,840 --> 00:15:09,260
+Hỏi cho chắc thôi,
+
+367
+00:15:09,260 --> 00:15:09,270
+Hỏi cho chắc thôi,
+nhưng cậu có bị đổ tội oan không vậy?
+
+368
+00:15:09,270 --> 00:15:10,900
+nhưng cậu có bị đổ tội oan không vậy?
+
+369
+00:15:11,180 --> 00:15:13,910
+Tiếc là không, đúng hết đấy.
+
+370
+00:15:13,910 --> 00:15:17,130
+Tiện thì thêm một câu nữa luôn, tại sao vậy?
+
+371
+00:15:17,130 --> 00:15:17,140
+Tiện thì thêm một câu nữa luôn, tại sao vậy?
+Để tạo dựng một thế giới chỉ có thuật sư.
+
+372
+00:15:17,140 --> 00:15:19,360
+Để tạo dựng một thế giới chỉ có thuật sư.
+
+373
+00:15:20,590 --> 00:15:22,500
+Chả hiểu gì hết á.
+
+374
+00:15:22,500 --> 00:15:22,510
+Chả hiểu gì hết á.
+Tôi có phải con nít đâu.
+
+375
+00:15:22,510 --> 00:15:24,380
+Tôi có phải con nít đâu.
+
+376
+00:15:24,380 --> 00:15:24,390
+Tôi có phải con nít đâu.
+Không cần làm gì cũng mong người khác hiểu.
+
+377
+00:15:24,390 --> 00:15:27,750
+Không cần làm gì cũng mong người khác hiểu.
+
+378
+00:15:28,170 --> 00:15:31,440
+Cái bọn lúc nào cũng cho
+là người khác không hiểu được mình
+
+379
+00:15:31,440 --> 00:15:31,440
+Cái bọn lúc nào cũng cho
+là người khác không hiểu được mình
+thì cũng có khác gì con nít đâu?
+
+380
+00:15:31,440 --> 00:15:33,980
+thì cũng có khác gì con nít đâu?
+
+381
+00:15:33,980 --> 00:15:33,980
+thì cũng có khác gì con nít đâu?
+À, Gojo hả?
+
+382
+00:15:33,980 --> 00:15:35,510
+À, Gojo hả?
+
+383
+00:15:35,850 --> 00:15:37,500
+Geto đang ở đây nè.
+
+384
+00:15:37,500 --> 00:15:40,320
+Ừ, ở Shinjuku.
+
+385
+00:15:40,320 --> 00:15:40,320
+Ừ, ở Shinjuku.
+Thôi đi ba, đây chưa muốn chết đâu.
+
+386
+00:15:40,320 --> 00:15:43,020
+Thôi đi ba, đây chưa muốn chết đâu.
+
+387
+00:15:51,950 --> 00:15:54,340
+Giải thích cho rõ đi, Suguru.
+
+388
+00:15:58,860 --> 00:16:01,070
+Shoko kể cho cậu rồi mà phải không?
+
+389
+00:16:01,070 --> 00:16:01,070
+Shoko kể cho cậu rồi mà phải không?
+Chẳng cần thêm bớt gì nữa hết.
+
+390
+00:16:01,070 --> 00:16:03,320
+Chẳng cần thêm bớt gì nữa hết.
+
+391
+00:16:03,320 --> 00:16:03,320
+Chẳng cần thêm bớt gì nữa hết.
+Vậy nên cậu muốn giết
+tất cả những người không phải thuật sư à?
+
+392
+00:16:03,320 --> 00:16:05,820
+Vậy nên cậu muốn giết
+tất cả những người không phải thuật sư à?
+
+393
+00:16:06,560 --> 00:16:07,820
+Cả bố mẹ cậu nữa sao?
+
+394
+00:16:07,820 --> 00:16:10,900
+Tôi đâu thể chỉ thiên vị bố mẹ mình chứ.
+
+395
+00:16:10,900 --> 00:16:10,910
+Tôi đâu thể chỉ thiên vị bố mẹ mình chứ.
+Với cả, gia đình của tôi giờ không chỉ có riêng họ.
+
+396
+00:16:10,910 --> 00:16:14,080
+Với cả, gia đình của tôi giờ không chỉ có riêng họ.
+
+397
+00:16:14,080 --> 00:16:14,080
+Với cả, gia đình của tôi giờ không chỉ có riêng họ.
+Tôi không hỏi mấy chuyện đó.
+
+398
+00:16:14,080 --> 00:16:16,340
+Tôi không hỏi mấy chuyện đó.
+
+399
+00:16:16,340 --> 00:16:16,340
+Tôi không hỏi mấy chuyện đó.
+Không phải cậu bảo sẽ không
+giết người một cách vô ích sao?
+
+400
+00:16:16,340 --> 00:16:19,840
+Không phải cậu bảo sẽ không
+giết người một cách vô ích sao?
+
+401
+00:16:19,840 --> 00:16:22,240
+Có ích chứ, có ý nghĩa nữa.
+
+402
+00:16:22,240 --> 00:16:22,240
+Có ích chứ, có ý nghĩa nữa.
+Vì đại nghĩa nữa là khác.
+
+403
+00:16:22,240 --> 00:16:23,650
+Vì đại nghĩa nữa là khác.
+
+404
+00:16:23,650 --> 00:16:23,660
+Vì đại nghĩa nữa là khác.
+Làm gì có!
+
+405
+00:16:23,660 --> 00:16:25,330
+Làm gì có!
+
+406
+00:16:25,330 --> 00:16:25,330
+Làm gì có!
+Giết hết người bình thường
+để tạo dựng một thế giới chỉ có thuật sư sao?
+
+407
+00:16:25,330 --> 00:16:28,740
+Giết hết người bình thường
+để tạo dựng một thế giới chỉ có thuật sư sao?
+
+408
+00:16:28,740 --> 00:16:28,740
+Giết hết người bình thường
+để tạo dựng một thế giới chỉ có thuật sư sao?
+Chuyện đó đương nhiên là không thể rồi!
+
+409
+00:16:28,740 --> 00:16:30,940
+Chuyện đó đương nhiên là không thể rồi!
+
+410
+00:16:30,940 --> 00:16:30,940
+Chuyện đó đương nhiên là không thể rồi!
+Cứ cứng đầu làm chuyện không thể
+thì có ý nghĩa gì chứ!?
+
+411
+00:16:30,940 --> 00:16:34,690
+Cứ cứng đầu làm chuyện không thể
+thì có ý nghĩa gì chứ!?
+
+412
+00:16:36,430 --> 00:16:37,680
+Kiêu ngạo thật đấy.
+
+413
+00:16:38,700 --> 00:16:39,810
+Hả!?
+
+414
+00:16:40,530 --> 00:16:43,480
+Nếu là cậu thì làm được chứ gì, Satoru?
+
+415
+00:16:45,800 --> 00:16:48,580
+Việc mình có thể làm được,
+
+416
+00:16:48,580 --> 00:16:48,580
+Việc mình có thể làm được,
+mà cứ nhất quyết cho rằng
+người khác "không thể" sao?
+
+417
+00:16:48,580 --> 00:16:52,530
+mà cứ nhất quyết cho rằng
+người khác "không thể" sao?
+
+418
+00:16:56,180 --> 00:16:59,750
+Vì là Gojo Satoru nên cậu mạnh nhất à?
+
+419
+00:16:59,750 --> 00:17:02,200
+Hay vì là mạnh nhất nên cậu là Gojo Satoru?
+
+420
+00:17:02,200 --> 00:17:02,200
+Hay vì là mạnh nhất nên cậu là Gojo Satoru?
+Cậu muốn ám chỉ gì đây hả?
+
+421
+00:17:02,200 --> 00:17:04,320
+Cậu muốn ám chỉ gì đây hả?
+
+422
+00:17:04,320 --> 00:17:04,330
+Cậu muốn ám chỉ gì đây hả?
+Nếu tôi trở thành cậu,
+
+423
+00:17:04,330 --> 00:17:07,430
+Nếu tôi trở thành cậu,
+
+424
+00:17:07,430 --> 00:17:07,430
+Nếu tôi trở thành cậu,
+thì cậu có nghĩ lý tưởng ngu ngốc này
+cũng có thể thành hiện thực không?
+
+425
+00:17:07,430 --> 00:17:11,130
+thì cậu có nghĩ lý tưởng ngu ngốc này
+cũng có thể thành hiện thực không?
+
+426
+00:17:12,890 --> 00:17:14,860
+Tôi đã quyết định cách sống của mình rồi.
+
+427
+00:17:14,860 --> 00:17:14,870
+Tôi đã quyết định cách sống của mình rồi.
+Còn lại chỉ là cố hết sức
+làm những việc trong khả năng thôi.
+
+428
+00:17:14,870 --> 00:17:17,650
+Còn lại chỉ là cố hết sức
+làm những việc trong khả năng thôi.
+
+429
+00:17:27,420 --> 00:17:28,850
+Nếu muốn giết tôi thì cứ giết đi.
+
+430
+00:17:31,000 --> 00:17:32,630
+Việc đó sẽ có ý nghĩa đấy.
+
+431
+00:17:42,640 --> 00:17:44,710
+Tại sao lại không đuổi theo?
+
+432
+00:17:48,170 --> 00:17:50,790
+Thầy hỏi thiệt luôn đó hả?
+
+433
+00:17:52,560 --> 00:17:54,310
+Không, khỏi trả lời.
+
+434
+00:17:54,310 --> 00:17:55,640
+Tôi xin lỗi.
+
+435
+00:17:59,460 --> 00:18:02,010
+Thầy à, em mạnh lắm nhỉ?
+
+436
+00:18:02,330 --> 00:18:05,280
+Ờ, với cả láo nữa.
+
+437
+00:18:06,590 --> 00:18:10,820
+Nhưng xem ra chỉ có mình em mạnh
+thì cũng không được thầy à.
+
+438
+00:18:10,820 --> 00:18:10,830
+Nhưng xem ra chỉ có mình em mạnh
+thì cũng không được thầy à.
+Em chỉ có thể cứu những người sẵn sàng
+để được người lạ cứu giúp thôi.
+
+439
+00:18:10,830 --> 00:18:15,930
+Em chỉ có thể cứu những người sẵn sàng
+để được người lạ cứu giúp thôi.
+
+440
+00:18:20,470 --> 00:18:23,160
+Tôi tưởng Bàn Tinh Giáo giải thể rồi chứ?
+
+441
+00:18:23,160 --> 00:18:23,160
+Tôi tưởng Bàn Tinh Giáo giải thể rồi chứ?
+Có là tổ chức khác thì cái gốc nó vẫn thế thôi.
+
+442
+00:18:23,160 --> 00:18:25,920
+Có là tổ chức khác thì cái gốc nó vẫn thế thôi.
+
+443
+00:18:26,210 --> 00:18:28,900
+Dù ngoài mặt thì ra vẻ đã chuyển nhượng rồi,
+
+444
+00:18:28,900 --> 00:18:28,900
+Dù ngoài mặt thì ra vẻ đã chuyển nhượng rồi,
+cậu không thích hả?
+
+445
+00:18:28,900 --> 00:18:29,960
+cậu không thích hả?
+
+446
+00:18:29,960 --> 00:18:29,960
+cậu không thích hả?
+Không, chỉ cần thu thập được lời nguyền
+và tiền thôi thì sao cũng được.
+
+447
+00:18:29,960 --> 00:18:33,680
+Không, chỉ cần thu thập được lời nguyền
+và tiền thôi thì sao cũng được.
+
+448
+00:18:34,000 --> 00:18:36,500
+Cậu tính mặc như thế lên thật đấy à?
+
+449
+00:18:36,500 --> 00:18:36,500
+Cậu tính mặc như thế lên thật đấy à?
+Được mà phải không? Vẻ ngoài quan trọng lắm.
+
+450
+00:18:36,500 --> 00:18:39,780
+Được mà phải không? Vẻ ngoài quan trọng lắm.
+
+451
+00:18:39,780 --> 00:18:39,790
+Được mà phải không? Vẻ ngoài quan trọng lắm.
+Ngài Geto.
+
+452
+00:18:39,790 --> 00:18:41,350
+Ngài Geto.
+
+453
+00:18:41,350 --> 00:18:41,360
+Ngài Geto.
+Xem cho kỹ nhé.
+
+454
+00:18:41,360 --> 00:18:43,140
+Xem cho kỹ nhé.
+
+455
+00:18:43,140 --> 00:18:43,140
+Xem cho kỹ nhé.
+Đến đủ hết rồi nhỉ?
+
+456
+00:18:43,140 --> 00:18:44,520
+Đến đủ hết rồi nhỉ?
+
+457
+00:18:44,520 --> 00:18:44,530
+Đến đủ hết rồi nhỉ?
+Trưởng các chi nhánh,
+cán bộ đại diện, giáo chủ,
+
+458
+00:18:44,530 --> 00:18:47,690
+Trưởng các chi nhánh,
+cán bộ đại diện, giáo chủ,
+
+459
+00:18:47,690 --> 00:18:47,690
+Trưởng các chi nhánh,
+cán bộ đại diện, giáo chủ,
+thêm một vài khách khứa
+quan trọng cũng có mặt rồi.
+
+460
+00:18:47,690 --> 00:18:50,370
+thêm một vài khách khứa
+quan trọng cũng có mặt rồi.
+
+461
+00:18:53,330 --> 00:18:55,070
+Thử mic...
+
+462
+00:18:55,070 --> 00:18:55,080
+Thử mic...
+Xin lỗi đã để mọi người chờ lâu.
+
+463
+00:18:55,080 --> 00:18:58,500
+Xin lỗi đã để mọi người chờ lâu.
+
+464
+00:18:58,500 --> 00:18:58,500
+Xin lỗi đã để mọi người chờ lâu.
+Tôi xin vào thẳng vấn đề.
+
+465
+00:18:58,500 --> 00:19:00,280
+Tôi xin vào thẳng vấn đề.
+
+466
+00:19:00,280 --> 00:19:00,290
+Tôi xin vào thẳng vấn đề.
+Bắt đầu từ giây phút này,
+tổ chức này sẽ thuộc về tôi.
+
+467
+00:19:00,290 --> 00:19:04,550
+Bắt đầu từ giây phút này,
+tổ chức này sẽ thuộc về tôi.
+
+468
+00:19:04,550 --> 00:19:09,180
+Tôi cũng sẽ đặt lại tên,
+xin mọi người hãy phục tùng tôi nhé.
+
+469
+00:19:09,180 --> 00:19:11,180
+(Đa số phản đối)
+
+470
+00:19:11,180 --> 00:19:13,840
+Khó rồi đây.
+
+471
+00:19:13,840 --> 00:19:13,850
+Khó rồi đây.
+Phải rồi!
+
+472
+00:19:13,850 --> 00:19:15,260
+Phải rồi!
+
+473
+00:19:15,260 --> 00:19:15,270
+Phải rồi!
+Ngài Sonoda, nếu không phiền
+thì mời ngài lên bục.
+
+474
+00:19:15,270 --> 00:19:19,010
+Ngài Sonoda, nếu không phiền
+thì mời ngài lên bục.
+
+475
+00:19:19,010 --> 00:19:19,020
+Ngài Sonoda, nếu không phiền
+thì mời ngài lên bục.
+Phải, chính là ngài đó.
+
+476
+00:19:19,020 --> 00:19:20,940
+Phải, chính là ngài đó.
+
+477
+00:19:21,800 --> 00:19:23,590
+Giờ thì, bắt đầu lại lần nữa.
+
+478
+00:19:24,240 --> 00:19:25,590
+Ta ghét lũ khỉ.
+
+479
+00:19:25,590 --> 00:19:27,810
+Các ngươi phải phục tùng ta.
+
+480
+00:19:27,810 --> 00:19:27,820
+Các ngươi phải phục tùng ta.
+Đây chính là tiếng lòng mà ta lựa chọn.
+
+481
+00:19:27,820 --> 00:19:30,020
+Đây chính là tiếng lòng mà ta lựa chọn.
+
+482
+00:19:30,690 --> 00:19:32,770
+Lũ khỉ khốn kiếp.
+
+483
+00:19:34,690 --> 00:19:37,540
+Nhóc là Fushiguro Megumi có phải không?
+
+484
+00:19:39,830 --> 00:19:41,150
+Anh là ai?
+
+485
+00:19:41,150 --> 00:19:41,150
+Anh là ai?
+Mà cái mặt đó là sao?
+
+486
+00:19:41,150 --> 00:19:43,370
+Mà cái mặt đó là sao?
+
+487
+00:19:44,790 --> 00:19:47,720
+Không có gì, thấy giống quá ấy mà.
+
+488
+00:19:47,720 --> 00:19:47,720
+Không có gì, thấy giống quá ấy mà.
+Hửm?
+
+489
+00:19:47,720 --> 00:19:48,650
+Hửm?
+
+490
+00:19:48,650 --> 00:19:50,650
+Chuyện của anh thôi.
+
+491
+00:19:50,650 --> 00:19:52,650
+Mà bố của nhóc ấy,
+
+492
+00:19:52,650 --> 00:19:55,550
+là người xuất thân
+từ gia tộc chú thuật sư tên là Zenin.
+
+493
+00:19:55,550 --> 00:19:55,560
+là người xuất thân
+từ gia tộc chú thuật sư tên là Zenin.
+Sống cẩu thả đến phát gớm luôn,
+
+494
+00:19:55,560 --> 00:19:58,000
+Sống cẩu thả đến phát gớm luôn,
+
+495
+00:19:58,000 --> 00:20:00,790
+ông ta bỏ nhà đi rồi đẻ ra nhóc đấy.
+
+496
+00:20:00,790 --> 00:20:00,800
+ông ta bỏ nhà đi rồi đẻ ra nhóc đấy.
+Nhóc vừa thấy được
+mà cũng vừa có nữa phải không?
+
+497
+00:20:00,800 --> 00:20:05,390
+Nhóc vừa thấy được
+mà cũng vừa có nữa phải không?
+
+498
+00:20:05,390 --> 00:20:05,390
+Nhóc vừa thấy được
+mà cũng vừa có nữa phải không?
+Chắc phải nhận ra sức mạnh của mình rồi chứ nhỉ?
+
+499
+00:20:05,390 --> 00:20:08,580
+Chắc phải nhận ra sức mạnh của mình rồi chứ nhỉ?
+
+500
+00:20:08,580 --> 00:20:08,590
+Chắc phải nhận ra sức mạnh của mình rồi chứ nhỉ?
+Bọn nhà Zenin cuồng tài năng lắm.
+
+501
+00:20:08,590 --> 00:20:11,320
+Bọn nhà Zenin cuồng tài năng lắm.
+
+502
+00:20:11,320 --> 00:20:11,330
+Bọn nhà Zenin cuồng tài năng lắm.
+Một người thường thức tỉnh thuật thức
+khi từ bốn đến sáu tuổi.
+
+503
+00:20:11,330 --> 00:20:14,450
+Một người thường thức tỉnh thuật thức
+khi từ bốn đến sáu tuổi.
+
+504
+00:20:14,450 --> 00:20:14,450
+Một người thường thức tỉnh thuật thức
+khi từ bốn đến sáu tuổi.
+Mua bán ở thời điểm này là chuẩn rồi còn gì nữa.
+
+505
+00:20:14,450 --> 00:20:16,960
+Mua bán ở thời điểm này là chuẩn rồi còn gì nữa.
+
+506
+00:20:16,960 --> 00:20:18,960
+Megumi này,
+
+507
+00:20:18,960 --> 00:20:23,500
+nhóc chính là át chủ bài
+ông già để lại đối phó với nhà Zenin đó.
+
+508
+00:20:23,500 --> 00:20:23,500
+nhóc chính là át chủ bài
+ông già để lại đối phó với nhà Zenin đó.
+Chắc bực lắm đúng không?
+
+509
+00:20:23,500 --> 00:20:24,780
+Chắc bực lắm đúng không?
+
+510
+00:20:24,780 --> 00:20:24,790
+Chắc bực lắm đúng không?
+Mà về ông bố đó ấy.
+
+511
+00:20:24,790 --> 00:20:27,260
+Mà về ông bố đó ấy.
+
+512
+00:20:27,260 --> 00:20:27,270
+Mà về ông bố đó ấy.
+- Sao cũng được.
+- Anh đây đã giết-
+
+513
+00:20:27,270 --> 00:20:29,160
+- Sao cũng được.
+- Anh đây đã giết-
+
+514
+00:20:29,160 --> 00:20:29,160
+- Sao cũng được.
+- Anh đây đã giết-
+Tôi không quan tâm ông ta
+đang ở đâu và làm gì hết.
+
+515
+00:20:29,160 --> 00:20:32,160
+Tôi không quan tâm ông ta
+đang ở đâu và làm gì hết.
+
+516
+00:20:32,160 --> 00:20:32,160
+Tôi không quan tâm ông ta
+đang ở đâu và làm gì hết.
+Nhiều năm không gặp rồi
+nên đến mặt cũng có nhớ đâu.
+
+517
+00:20:32,160 --> 00:20:35,590
+Nhiều năm không gặp rồi
+nên đến mặt cũng có nhớ đâu.
+
+518
+00:20:35,590 --> 00:20:37,680
+Nghe anh nói tôi cũng hiểu được đại khái rồi.
+
+519
+00:20:38,510 --> 00:20:41,570
+Mẹ của Tsumiki
+cũng không về được một thời gian rồi.
+
+520
+00:20:41,570 --> 00:20:41,580
+Mẹ của Tsumiki
+cũng không về được một thời gian rồi.
+À, về rồi hả Megumi.
+
+521
+00:20:41,580 --> 00:20:44,290
+À, về rồi hả Megumi.
+
+522
+00:20:44,290 --> 00:20:44,300
+À, về rồi hả Megumi.
+Tức là bà ấy xong việc với chúng tôi rồi,
+
+523
+00:20:44,300 --> 00:20:46,720
+Tức là bà ấy xong việc với chúng tôi rồi,
+
+524
+00:20:46,720 --> 00:20:46,720
+Tức là bà ấy xong việc với chúng tôi rồi,
+từ giờ hai đứa đùm bọc lẫn nhau chứ gì?
+
+525
+00:20:46,720 --> 00:20:49,110
+từ giờ hai đứa đùm bọc lẫn nhau chứ gì?
+
+526
+00:20:50,610 --> 00:20:53,410
+Có thật nhóc mới học lớp 1 không vậy?
+
+527
+00:20:53,410 --> 00:20:53,410
+Có thật nhóc mới học lớp 1 không vậy?
+Mà kệ đi.
+
+528
+00:20:53,410 --> 00:20:55,150
+Mà kệ đi.
+
+529
+00:20:55,150 --> 00:20:55,150
+Mà kệ đi.
+Nếu muốn biết về bố mình
+thì cứ hỏi anh bất cứ lúc nào nha.
+
+530
+00:20:55,150 --> 00:20:58,140
+Nếu muốn biết về bố mình
+thì cứ hỏi anh bất cứ lúc nào nha.
+
+531
+00:20:58,140 --> 00:20:58,140
+Nếu muốn biết về bố mình
+thì cứ hỏi anh bất cứ lúc nào nha.
+Dậy nào.
+
+532
+00:20:58,140 --> 00:21:00,040
+Dậy nào.
+
+533
+00:21:00,040 --> 00:21:00,050
+Dậy nào.
+Chuyện của ông ta cũng thú vị ra phết đấy.
+
+534
+00:21:00,050 --> 00:21:02,520
+Chuyện của ông ta cũng thú vị ra phết đấy.
+
+535
+00:21:02,520 --> 00:21:02,530
+Chuyện của ông ta cũng thú vị ra phết đấy.
+Vào vấn đề chính nào.
+
+536
+00:21:02,530 --> 00:21:04,230
+Vào vấn đề chính nào.
+
+537
+00:21:04,230 --> 00:21:04,230
+Vào vấn đề chính nào.
+Nhóc muốn sao đây?
+
+538
+00:21:04,230 --> 00:21:05,840
+Nhóc muốn sao đây?
+
+539
+00:21:05,840 --> 00:21:05,850
+Nhóc muốn sao đây?
+Muốn đến nhà Zenin không?
+
+540
+00:21:05,850 --> 00:21:07,880
+Muốn đến nhà Zenin không?
+
+541
+00:21:08,430 --> 00:21:10,340
+Tsumiki sẽ ra sao?
+
+542
+00:21:10,340 --> 00:21:10,350
+Tsumiki sẽ ra sao?
+Nếu đến đấy thì Tsumiki có được hạnh phúc không?
+
+543
+00:21:10,350 --> 00:21:13,270
+Nếu đến đấy thì Tsumiki có được hạnh phúc không?
+
+544
+00:21:13,270 --> 00:21:14,040
+Tùy thuộc vào đó.
+
+545
+00:21:14,040 --> 00:21:14,050
+Tùy thuộc vào đó.
+Không.
+
+546
+00:21:14,050 --> 00:21:14,800
+Không.
+
+547
+00:21:14,800 --> 00:21:14,810
+Không.
+Trăm phần trăm là không.
+
+548
+00:21:14,810 --> 00:21:16,380
+Trăm phần trăm là không.
+
+549
+00:21:16,380 --> 00:21:16,380
+Trăm phần trăm là không.
+Anh dám khẳng định như thế.
+
+550
+00:21:16,380 --> 00:21:18,130
+Anh dám khẳng định như thế.
+
+551
+00:21:21,620 --> 00:21:23,440
+Rồi nha.
+
+552
+00:21:23,440 --> 00:21:23,440
+Rồi nha.
+Còn lại cứ giao cho anh.
+
+553
+00:21:23,440 --> 00:21:25,700
+Còn lại cứ giao cho anh.
+
+554
+00:21:27,680 --> 00:21:31,170
+Có thể anh sẽ khiến nhóc phải khổ sở đấy,
+
+555
+00:21:31,170 --> 00:21:31,170
+Có thể anh sẽ khiến nhóc phải khổ sở đấy,
+nhưng cứ cố lên nhé.
+
+556
+00:21:31,170 --> 00:21:32,280
+nhưng cứ cố lên nhé.
+
+557
+00:21:33,110 --> 00:21:35,030
+Hãy mạnh mẽ lên đi.
+
+558
+00:21:35,520 --> 00:21:37,990
+Mạnh đến mức đừng bị anh bỏ lại phía sau.
+
+559
+00:21:39,360 --> 00:21:43,280
+(Ngày 19 tháng 10 năm 2018)
+
+560
+00:21:44,580 --> 00:21:46,200
+Thầy Gojo.
+
+561
+00:21:46,200 --> 00:21:46,200
+Thầy Gojo.
+Thầy cũng ngủ hả ta?
+
+562
+00:21:46,200 --> 00:21:47,880
+Thầy cũng ngủ hả ta?
+
+563
+00:21:47,880 --> 00:21:47,880
+Thầy cũng ngủ hả ta?
+Đương nhiên rồi, ông linh tinh gì vậy?
+
+564
+00:21:47,880 --> 00:21:50,310
+Đương nhiên rồi, ông linh tinh gì vậy?
+
+565
+00:21:50,310 --> 00:21:50,320
+Đương nhiên rồi, ông linh tinh gì vậy?
+Thầy Gojo!
+
+566
+00:21:50,320 --> 00:21:51,930
+Thầy Gojo!
+
+567
+00:21:53,020 --> 00:21:54,700
+Ồ, tỉnh rồi kìa!
+
+568
+00:21:54,700 --> 00:21:54,700
+Ồ, tỉnh rồi kìa!
+Cái ghế đó mắc lắm phải không thầy?
+
+569
+00:21:54,700 --> 00:21:56,880
+Cái ghế đó mắc lắm phải không thầy?
+
+570
+00:21:56,880 --> 00:22:00,000
+Đừng có gọi người ta tới rồi ngủ gật chứ.
+
+571
+00:22:01,450 --> 00:22:02,270
+Á, ăn gian!
+
+572
+00:22:02,270 --> 00:22:02,280
+Á, ăn gian!
+Tới tôi chứ!
+
+573
+00:22:02,280 --> 00:22:03,290
+Tới tôi chứ!
+
+574
+00:22:03,290 --> 00:22:03,300
+Tới tôi chứ!
+Nè, nhanh xuống đi.
+
+575
+00:22:03,300 --> 00:22:05,160
+Nè, nhanh xuống đi.
+
+576
+00:22:05,160 --> 00:22:05,160
+Nè, nhanh xuống đi.
+- Dính mông luôn rồi.
+- Thầy cười gì vậy?
+
+577
+00:22:05,160 --> 00:22:06,470
+- Dính mông luôn rồi.
+- Thầy cười gì vậy?
+
+578
+00:22:06,470 --> 00:22:06,470
+- Dính mông luôn rồi.
+- Thầy cười gì vậy?
+Dính gì mà dính, tránh ra!
+
+579
+00:22:06,470 --> 00:22:08,350
+Dính gì mà dính, tránh ra!
+
+580
+00:22:08,350 --> 00:22:09,970
+Có gì đâu.
+
+581
+00:23:41,030 --> 00:23:43,390
+"Motto" viết chữ Kanji như thế nào nhỉ?
+
+582
+00:23:43,880 --> 00:23:47,260
+Ủa sao viết bằng Katakana?
+Tiếng nước ngoài sao?
+
+583
+00:23:47,260 --> 00:23:47,270
+Ủa sao viết bằng Katakana?
+Tiếng nước ngoài sao?
+Tập tiếp theo, "Mấy chuyện kiểu đó".
+
+584
+00:23:47,270 --> 00:23:49,830
+Tập tiếp theo, "Mấy chuyện kiểu đó".
+
+585
+00:23:49,830 --> 00:23:49,840
+Tập tiếp theo, "Mấy chuyện kiểu đó".
+Hẳn là có nhiều chuyện
+tưởng rằng bản thân đã biết lắm nhỉ.
+
+586
+00:23:49,840 --> 00:23:55,230
+Hẳn là có nhiều chuyện
+tưởng rằng bản thân đã biết lắm nhỉ.
